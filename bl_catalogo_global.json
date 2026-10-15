@@ -1,1 +1,2842 @@
-
+[
+  {
+    "id": 1,
+    "titulo": "Fish Upon the Sky",
+    "sinopsis": "Un estudiante universitario de odontología con gafas y baja autoestima se enamora de un chico popular, pero descubre que tiene un duro rival por su amor.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=600&auto=format&fit=crop",
+    "anio": "2021",
+    "pais": "Tailandia",
+    "tropos": ["Glow Up", "University Life", "Amigos a amantes"],
+    "shipPrincipal": {
+      "nombreShip": "PondPhuwin",
+      "actores": ["Naravit Lertratkosum", "Phuwin Tangsakyuen"],
+      "isActivo": true,
+      "descripcionGeneral": "Su primera serie BL juntos; narra una comedia romántica universitaria entre Pi (Phuwin) y Mork (Pond).",
+      "imagenShipUrl": "https://i.pinimg.com/736x/fa/e2/22/fae2221d7131f38e307c92c193307286.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "titulo": "Never Let Me Go",
+    "sinopsis": "El heredero de una poderosa familia mafiosa es puesto bajo la protección de un joven leal y decidido tras el asesinato de su padre, obligándolos a huir y enamorarse en medio del peligro.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Mafia", "Bodyguard x Heir", "En Huidas y Peligro"],
+    "shipPrincipal": {
+      "nombreShip": "PondPhuwin",
+      "actores": ["Naravit Lertratkosum", "Phuwin Tangsakyuen"],
+      "isActivo": true,
+      "descripcionGeneral": "Un drama de romance y acción donde interpretan a un heredero amenazado y su guardaespaldas.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/fa/e2/22/fae2221d7131f38e307c92c193307286.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "titulo": "Our Skyy 2",
+    "sinopsis": "Historias especiales y secuelas que continúan las vivencias y el amor de las parejas más icónicas de GMMTV, revisitando el universo de Never Let Me Go.",
+    "episodiosTotales": 2,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Spin-off", "Continuación", "Romance Universitario/Drama"],
+    "shipPrincipal": {
+      "nombreShip": "PondPhuwin",
+      "actores": ["Naravit Lertratkosum", "Phuwin Tangsakyuen"],
+      "isActivo": true,
+      "descripcionGeneral": "Historias especiales que continúan el universo de Never Let Me Go con momentos entrañables para los fans.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/fa/e2/22/fae2221d7131f38e307c92c193307286.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "titulo": "We Are",
+    "sinopsis": "Un grupo de alegres universitarios lidia con el caos de las clases, las bromas entre amigos y los enredos del amor, donde cuatro parejas distintas descubren lo que sienten el uno por el otro.",
+    "episodiosTotales": 16,
+    "imagenUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Tailandia",
+    "tropos": ["Amigos a Amantes", "University Life", "Comedia Romántica Coral"],
+    "shipPrincipal": {
+      "nombreShip": "PondPhuwin",
+      "actores": ["Naravit Lertratkosum", "Phuwin Tangsakyuen"],
+      "isActivo": true,
+      "descripcionGeneral": "Una serie universitaria ligera y divertida sobre un grupo de amigos y parejas.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/fa/e2/22/fae2221d7131f38e307c92c193307286.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "titulo": "Me and Thee",
+    "sinopsis": "Una cuidada producción donde la elegancia, los dilemas personales y una química desbordante se entrelazan en una atmósfera sofisticada e íntima.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+    "anio": "2025",
+    "pais": "Tailandia",
+    "tropos": ["Drama Sofisticado", "Slow Burn", "Intimidad y Confesiones"],
+    "shipPrincipal": {
+      "nombreShip": "PondPhuwin",
+      "actores": ["Naravit Lertratkosum", "Phuwin Tangsakyuen"],
+      "isActivo": true,
+      "descripcionGeneral": "Producción estrenada a finales de año que destaca por su tono maduro y estético.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/fa/e2/22/fae2221d7131f38e307c92c193307286.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "titulo": "The Meeting Sunshine",
+    "sinopsis": "Un thriller romántico de alto voltaje donde las vidas de un peligroso asesino a sueldo y su inesperada conexión se cruzan bajo luces de neón y misiones imposibles.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Acción y Suspenso", "Asesino a sueldo", "Danger & Romance"],
+    "shipPrincipal": {
+      "nombreShip": "PondPhuwin",
+      "actores": ["Naravit Lertratkosum", "Phuwin Tangsakyuen"],
+      "isActivo": true,
+      "descripcionGeneral": "Un nuevo proyecto BL donde interpretan a un asesino a sueldo y su pareja.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/fa/e2/22/fae2221d7131f38e307c92c193307286.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "titulo": "Our Skyy 2",
+    "sinopsis": "Secuelas especiales de las series más icónicas de GMMTV, revisitando el universo de Theory of Love.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Spin-off", "Comedia Romántica", "Domesticidad"],
+    "shipPrincipal": {
+      "nombreShip": "OffGun",
+      "actores": ["Jumpol Adulkittiporn", "Atthphan Phunsawat"],
+      "isActivo": true,
+      "descripcionGeneral": "Continuación especial en formato antología para Khai y Third.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/2b/9b/77/2b9b775196bcde6d50734a70659646b1.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "titulo": "Cooking Crush",
+    "sinopsis": "Un aspirante a chef heredero de un restaurante y un estudiante de medicina reconvertido en creador de contenido cruzan sus caminos.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Chef x Estudiante", "Comedia Romántica", "Slow Burn"],
+    "shipPrincipal": {
+      "nombreShip": "OffGun",
+      "actores": ["Jumpol Adulkittiporn", "Atthphan Phunsawat"],
+      "isActivo": true,
+      "descripcionGeneral": "Comedia romántica culinaria protagonizada por Prem y Ten.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/2b/9b/77/2b9b775196bcde6d50734a70659646b1.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "titulo": "The Trainee",
+    "sinopsis": "Un joven pasante en el vertiginoso mundo de la producción televisiva y un exigente director de fotografía navegan por la línea entre trabajo y romance.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Tailandia",
+    "tropos": ["Office Romance", "Mentor y Pasantía", "Slow Burn"],
+    "shipPrincipal": {
+      "nombreShip": "OffGun",
+      "actores": ["Jumpol Adulkittiporn", "Atthphan Phunsawat"],
+      "isActivo": true,
+      "descripcionGeneral": "Propuesta madura en la industria del entretenimiento como Ryan y Jane.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/2b/9b/77/2b9b775196bcde6d50734a70659646b1.jpg"
+    }
+  },
+  {
+    "id": 11,
+    "titulo": "Burnout Syndrome",
+    "sinopsis": "Una intensa exploración dramática sobre las exigencias laborales, el agotamiento emocional y el apoyo mutuo en el entorno moderno.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?q=80&w=600&auto=format&fit=crop",
+    "anio": "2025",
+    "pais": "Tailandia",
+    "tropos": ["Drama Psicológico", "Office Romance", "Angst"],
+    "shipPrincipal": {
+      "nombreShip": "OffGun",
+      "actores": ["Jumpol Adulkittiporn", "Atthphan Phunsawat"],
+      "isActivo": true,
+      "descripcionGeneral": "Producción dramática estrenada en 2025.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/2b/9b/77/2b9b775196bcde6d50734a70659646b1.jpg"
+    }
+  },
+  {
+    "id": 12,
+    "titulo": "Gunshot",
+    "sinopsis": "Un thriller de acción dinámico donde el peligro, las armas y la tensión al límite ponen a prueba la lealtad y el amor de sus protagonistas.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Acción y Suspenso", "Danger & Romance"],
+    "shipPrincipal": {
+      "nombreShip": "OffGun",
+      "actores": ["Jumpol Adulkittiporn", "Atthphan Phunsawat"],
+      "isActivo": true,
+      "descripcionGeneral": "Proyecto principal de acción de OffGun para 2026.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/2b/9b/77/2b9b775196bcde6d50734a70659646b1.jpg"
+    }
+  },
+  {
+    "id": 13,
+    "titulo": "Kiss Me Again",
+    "sinopsis": "Historias entrelazadas sobre las complejidades del amor universitario y los enredos sentimentales de un grupo de jóvenes.",
+    "episodiosTotales": 14,
+    "imagenUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=600&auto=format&fit=crop",
+    "anio": "2018",
+    "pais": "Tailandia",
+    "tropos": ["Enemies to Lovers", "University Life"],
+    "shipPrincipal": {
+      "nombreShip": "TayNew",
+      "actores": ["Tawan Vihokratana", "Thitipoom Techaapaikhun"],
+      "isActivo": true,
+      "descripcionGeneral": "Interpretaron por primera vez de forma secundaria a los personajes de Pete y Kao.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/8f/c7/b5/8fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 14,
+    "titulo": "Our Skyy: Pete-Kao",
+    "sinopsis": "Capítulo especial autoconclusivo que explora los desafíos de convivencia y confianza entre Pete y Kao tras consolidar su relación.",
+    "episodiosTotales": 1,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2018",
+    "pais": "Tailandia",
+    "tropos": ["Spin-off", "Domesticidad", "Romance Consolidado"],
+    "shipPrincipal": {
+      "nombreShip": "TayNew",
+      "actores": ["Tawan Vihokratana", "Thitipoom Techaapaikhun"],
+      "isActivo": true,
+      "descripcionGeneral": "Miniserie especial de un capítulo que continúa la historia de Pete y Kao.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/8f/c7/b5/8fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 15,
+    "titulo": "Dark Blue Kiss",
+    "sinopsis": "Pete y Kao deben lidiar con mantener su relación en secreto ante su entorno mientras enfrentan celos, presiones familiares y la aparición de un nuevo tutor.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
+    "anio": "2019",
+    "pais": "Tailandia",
+    "tropos": ["Secret Relationship", "Celos", "Angst and Growth"],
+    "shipPrincipal": {
+      "nombreShip": "TayNew",
+      "actores": ["Tawan Vihokratana", "Thitipoom Techaapaikhun"],
+      "isActivo": true,
+      "descripcionGeneral": "Su serie principal como pareja protagónica oficial dentro del universo Kiss.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/8f/c7/b5/8fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 16,
+    "titulo": "Cherry Magic",
+    "sinopsis": "Un empleado de oficina que sigue siendo virgen al cumplir 30 años adquiere la habilidad mágica de leer los pensamientos de las personas al tocarlas, descubriendo que su apuesto y exitoso compañero de trabajo está enamorado de él.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Office Romance", "Magical Realism", "Slow Burn"],
+    "shipPrincipal": {
+      "nombreShip": "TayNew",
+      "actores": ["Tawan Vihokratana", "Thitipoom Techaapaikhun"],
+      "isActivo": true,
+      "descripcionGeneral": "La exitosa versión tailandesa de la popular serie japonesa homónima, donde son protagonistas.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/8f/c7/b5/8fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 16,
+    "titulo": "A Tale of Thousand Stars",
+    "sinopsis": "Un joven voluntario recibe un trasplante de corazón y viaja a un pueblo rural para cumplir los últimos deseos de su donante, conociendo a un estricto jefe forestal.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+    "anio": "2021",
+    "pais": "Tailandia",
+    "tropos": ["Slow Burn", "Profesor-Voluntario y Guardaforestal", "Angst y Redención"],
+    "shipPrincipal": {
+      "nombreShip": "EarthMix",
+      "actores": ["Pirapat Watthanasetsiri", "Sahaphap Wongratch"],
+      "isActivo": true,
+      "descripcionGeneral": "Su serie más icónica. Earth interpreta a Phupha y Mix a Tian.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/51/a2/82/51a282f6f43e5db9973278540d6e2439.jpg"
+    }
+  },
+  {
+    "id": 17,
+    "titulo": "Cupid's Last Wish",
+    "sinopsis": "Dos amigos de la infancia se ven envueltos en un conflicto familiar por una herencia tras un extraño suceso de intercambio de cuerpos.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Body Swap", "Amigos de la Infancia", "Viaje por Carretera"],
+    "shipPrincipal": {
+      "nombreShip": "EarthMix",
+      "actores": ["Pirapat Watthanasetsiri", "Sahaphap Wongratch"],
+      "isActivo": true,
+      "descripcionGeneral": "Una historia de amigos de la infancia (Korn y Win) envueltos en un conflicto por una herencia y un intercambio de cuerpos.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/51/a2/82/51a282f6f43e5db9973278540d6e2439.jpg"
+    }
+  },
+  {
+    "id": 18,
+    "titulo": "Moonlight Chicken",
+    "sinopsis": "Un drama romántico maduro y realista ambientado en un popular puesto nocturno de arroz con pollo, donde las vidas y heridas del pasado encuentran consuelo.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Slow Burn", "Adult Romance", "Slice of Life"],
+    "shipPrincipal": {
+      "nombreShip": "EarthMix",
+      "actores": ["Pirapat Watthanasetsiri", "Sahaphap Wongratch"],
+      "isActivo": true,
+      "descripcionGeneral": "Un drama romántico más maduro y realista sobre Jim (Earth) y Wen (Mix).",
+      "imagenShipUrl": "https://i.pinimg.com/736x/51/a2/82/51a282f6f43e5db9973278540d6e2439.jpg"
+    }
+  },
+  {
+    "id": 19,
+    "titulo": "Our Skyy 2 (EarthMix)",
+    "sinopsis": "Especiales de continuación que exploran la vida en pareja y nuevos retos en el universo de A Tale of Thousand Stars.",
+    "episodiosTotales": 2,
+    "imagenUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Spin-off", "Romance Consolidado"],
+    "shipPrincipal": {
+      "nombreShip": "EarthMix",
+      "actores": ["Pirapat Watthanasetsiri", "Sahaphap Wongratch"],
+      "isActivo": true,
+      "descripcionGeneral": "Un spin-off en el que retomaron sus personajes más queridos, incluyendo un especial de A Tale of Thousand Stars.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/51/a2/82/51a282f6f43e5db9973278540d6e2439.jpg"
+    }
+  },
+  {
+    "id": 20,
+    "titulo": "Ossan's Love Thailand",
+    "sinopsis": "Un caótico y divertido romance de oficina donde un empleado descubre que tanto su jefe como su joven compañero están enamorados de él.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2025",
+    "pais": "Tailandia",
+    "tropos": ["Office Romance", "Comedia Romántica", "Amor a Tres Bandas"],
+    "shipPrincipal": {
+      "nombreShip": "EarthMix",
+      "actores": ["Pirapat Watthanasetsiri", "Sahaphap Wongratch"],
+      "isActivo": true,
+      "descripcionGeneral": "La adaptación tailandesa de la popular serie japonesa, protagonizada por Earth y Mix junto a Chakrit.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/51/a2/82/51a282f6f43e5db9973278540d6e2439.jpg"
+    }
+  },
+  {
+    "id": 21,
+    "titulo": "Magic of Zero: Zero Supporter",
+    "sinopsis": "Episodio especial fantástico que expande el universo y la relación de Korn y Win de Cupid's Last Wish.",
+    "episodiosTotales": 1,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Fantasy", "Spin-off", "Magical Realism"],
+    "shipPrincipal": {
+      "nombreShip": "EarthMix",
+      "actores": ["Pirapat Watthanasetsiri", "Sahaphap Wongratch"],
+      "isActivo": true,
+      "descripcionGeneral": "Un episodio especial que expande el universo de Korn y Win de Cupid's Last Wish.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/51/a2/82/51a282f6f43e5db9973278540d6e2439.jpg"
+    }
+  },
+  {
+    "id": 22,
+    "titulo": "My School President",
+    "sinopsis": "El carismático presidente del club de música y el estricto presidente del consejo estudiantil entablan un tierno romance escolar impulsado por la música.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["High School", "Musicals", "Enemies to Lovers"],
+    "shipPrincipal": {
+      "nombreShip": "GeminiFourth",
+      "actores": ["Norawit Titicharoenrak", "Fourth Nattawat Jirochtikul"],
+      "isActivo": true,
+      "descripcionGeneral": "Interpretan a Tinn y Gun, una de las parejas principales más populares del género escolar musical.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/e2/2b/9b/e22b9b775196bcde6d50734a70659646b1.jpg"
+    }
+  },
+  {
+    "id": 23,
+    "titulo": "Moonlight Chicken (GeminiFourth)",
+    "sinopsis": "Drama coral donde se entrelazan las vidas de varios personajes marcados por las dificultades cotidianas y el amor juvenil.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Ensemble", "Coming of Age"],
+    "shipPrincipal": {
+      "nombreShip": "GeminiFourth",
+      "actores": ["Norawit Titicharoenrak", "Fourth Nattawat Jirochtikul"],
+      "isActivo": true,
+      "descripcionGeneral": "Drama coral donde interpretan papeles secundarios/de reparto (Li Ming y Heart).",
+      "imagenShipUrl": "https://i.pinimg.com/736x/e2/2b/9b/e22b9b775196bcde6d50734a70659646b1.jpg"
+    }
+  },
+  {
+    "id": 24,
+    "titulo": "Our Skyy 2 (GeminiFourth)",
+    "sinopsis": "Episodios especiales centrados en la continuación de la historia de amor entre Tinn y Gun.",
+    "episodiosTotales": 2,
+    "imagenUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Spin-off", "High School Romance"],
+    "shipPrincipal": {
+      "nombreShip": "GeminiFourth",
+      "actores": ["Norawit Titicharoenrak", "Fourth Nattawat Jirochtikul"],
+      "isActivo": true,
+      "descripcionGeneral": "2 episodios dedicados a la continuación de Tinn y Gun de My School President.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/e2/2b/9b/e22b9b775196bcde6d50734a70659646b1.jpg"
+    }
+  },
+  {
+    "id": 25,
+    "titulo": "My Love Mix-Up!",
+    "sinopsis": "Adaptación tailandesa de la entrañable historia de malentendidos románticos escolares por un borrador mágico.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Tailandia",
+    "tropos": ["High School", "Comedia Romántica", "Misunderstandings"],
+    "shipPrincipal": {
+      "nombreShip": "GeminiFourth",
+      "actores": ["Norawit Titicharoenrak", "Fourth Nattawat Jirochtikul"],
+      "isActivo": true,
+      "descripcionGeneral": "Adaptación tailandesa donde interpretan a Atom y Kongthap.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/e2/2b/9b/e22b9b775196bcde6d50734a70659646b1.jpg"
+    }
+  },
+  {
+    "id": 26,
+    "titulo": "Ticket to Heaven",
+    "sinopsis": "Un intenso drama de misterio y secretos ambientado en un internado católico en la década de los noventa.",
+    "episodiosTotales": 6,
+    "imagenUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Boarding School", "Misterio", "Retro 90s"],
+    "shipPrincipal": {
+      "nombreShip": "GeminiFourth",
+      "actores": ["Norawit Titicharoenrak", "Fourth Nattawat Jirochtikul"],
+      "isActivo": true,
+      "descripcionGeneral": "Drama ambientado en un internado católico en 1996 protagonizado por Tanrak (Fourth) y Bath (Gemini).",
+      "imagenShipUrl": "https://i.pinimg.com/736x/e2/2b/9b/e22b9b775196bcde6d50734a70659646b1.jpg"
+    }
+  },
+  {
+    "id": 27,
+    "titulo": "Star and Sky: Star in My Mind",
+    "sinopsis": "Un estudiante de medicina intenta reconectar con su antiguo amor de la escuela secundaria, quien ahora estudia educación.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Second Chance", "University Life", "Medical x Education"],
+    "shipPrincipal": {
+      "nombreShip": "JoongDunk",
+      "actores": ["Archen Aydin", "Natachai Boonprasert"],
+      "isActivo": true,
+      "descripcionGeneral": "Su serie debut como pareja principal, donde interpretan a Khabkluen y Daonuea.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/4fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 28,
+    "titulo": "Star and Sky: Sky in Your Heart",
+    "sinopsis": "Historia paralela ambientada en el mismo universo donde un médico idealista realiza voluntariado en una zona rural.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Medical", "Rural Volunteer", "Shared Universe"],
+    "shipPrincipal": {
+      "nombreShip": "JoongDunk",
+      "actores": ["Archen Aydin", "Natachai Boonprasert"],
+      "isActivo": true,
+      "descripcionGeneral": "Serie relacionada en el mismo universo donde hacen apariciones especiales.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/4fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 29,
+    "titulo": "Our Skyy 2 (JoongDunk)",
+    "sinopsis": "Continuación especial en formato de miniserie para la historia de Khabkluen y Daonuea.",
+    "episodiosTotales": 2,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Spin-off", "Romance Consolidado"],
+    "shipPrincipal": {
+      "nombreShip": "JoongDunk",
+      "actores": ["Archen Aydin", "Natachai Boonprasert"],
+      "isActivo": true,
+      "descripcionGeneral": "Miniserie de continuación de dos episodios centrada en su historia de Star in My Mind.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/4fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 30,
+    "titulo": "Hidden Agenda",
+    "sinopsis": "Un abogado universitario novato busca ayuda para conquistar a una chica, sin saber que el experto en citas que lo aconseja oculta intenciones muy diferentes.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Fake Dating", "University Life", "Hidden Feelings"],
+    "shipPrincipal": {
+      "nombreShip": "JoongDunk",
+      "actores": ["Archen Aydin", "Natachai Boonprasert"],
+      "isActivo": true,
+      "descripcionGeneral": "Drama de 12 episodios donde interpretan a Joke y Zo.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/4fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 31,
+    "titulo": "The Heart Killers",
+    "sinopsis": "Una serie de acción y crimen donde peligrosos asesinos y enredos sentimentales se cruzan en un juego mortal de alto voltaje.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Tailandia",
+    "tropos": ["Action", "Crime", "Dangerous Romance"],
+    "shipPrincipal": {
+      "nombreShip": "JoongDunk",
+      "actores": ["Archen Aydin", "Natachai Boonprasert"],
+      "isActivo": true,
+      "descripcionGeneral": "Serie de 12 episodios en un tono de acción y crimen, donde interpretan a Fadel y Style junto a First y Khaotung.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/4fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 32,
+    "titulo": "Dare You to Death",
+    "sinopsis": "Un thriller de misterio e investigación donde dos detectives deben resolver complejos casos mientras se enfrentan a una tensión innegable.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Thriller", "Detectives", "Mystery"],
+    "shipPrincipal": {
+      "nombreShip": "JoongDunk",
+      "actores": ["Archen Aydin", "Natachai Boonprasert"],
+      "isActivo": true,
+      "descripcionGeneral": "Thriller de misterio e investigación de 10 episodios donde interpretan a los detectives Kamin y Jade.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/4fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 33,
+    "titulo": "How to Survive My CEO",
+    "sinopsis": "Una comedia romántica de oficina basada en una novela web sobre la peculiar relación entre un exigente director ejecutivo y su subordinado.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Office Romance", "Boss x Employee", "Comedia Romántica"],
+    "shipPrincipal": {
+      "nombreShip": "JoongDunk",
+      "actores": ["Archen Aydin", "Natachai Boonprasert"],
+      "isActivo": true,
+      "descripcionGeneral": "Comedia romántica de oficina basada en una novela web donde interpretan a Phatlom y Pafon.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/4fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 34,
+    "titulo": "Love in the Air",
+    "sinopsis": "Dos parejas experimentan intensas historias de amor entrelazadas marcadas por la pasión, la protección y el destino.",
+    "episodiosTotales": 13,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Passionate Romance", "Business Man x Architect", "Protector x Cauteloso"],
+    "shipPrincipal": {
+      "nombreShip": "FortPeat",
+      "actores": ["Thitipong Sengngai", "Wasu Phonphanich"],
+      "isActivo": true,
+      "descripcionGeneral": "Prapai y Sky (Fort y Peat interpretan a la segunda pareja principal). Un romance apasionado y tierno.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 35,
+    "titulo": "Love Sea",
+    "sinopsis": "Un escritor independiente en busca de inspiración y un carismático guía y pescador de una isla tropical viven un romance intenso junto al mar.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Tailandia",
+    "tropos": ["Island Romance", "Writer x Fisherman", "Tropical Setting"],
+    "shipPrincipal": {
+      "nombreShip": "FortPeat",
+      "actores": ["Thitipong Sengngai", "Wasu Phonphanich"],
+      "isActivo": true,
+      "descripcionGeneral": "Mahasamut y Tongrak. Un escritor independiente y un carismático guía/pescador en un romance intenso.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 36,
+    "titulo": "Yesterday The Series",
+    "sinopsis": "Basada en la novela china Yesterday de Feng Nong, explora intrigas en los mercados financieros y una feroz lucha por la herencia familiar.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Financial Intrigue", "Family Inheritance", "Power Struggle"],
+    "shipPrincipal": {
+      "nombreShip": "FortPeat",
+      "actores": ["Thitipong Sengngai", "Wasu Phonphanich"],
+      "isActivo": true,
+      "descripcionGeneral": "Intrigas financieras y lucha por la herencia familiar con Peat llevando el peso dramático.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 37,
+    "titulo": "ThamePo: Heart That Skips a Beat",
+    "sinopsis": "La travesía musical y emocional de dos jóvenes artistas que descubren que sus latidos se sincronizan en los escenarios y fuera de ellos.",
+    "episodiosTotales": 13,
+    "imagenUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Tailandia",
+    "tropos": ["Music Industry", "Idols", "First BL Couple Lead"],
+    "shipPrincipal": {
+      "nombreShip": "WilliamEst",
+      "actores": ["Jatuphum Nuan-a-ong (William)", "Suphachok Vilakod (Est)"],
+      "isActivo": true,
+      "descripcionGeneral": "Su primera serie BL principal como pareja. William interpreta a Thame.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 38,
+    "titulo": "Me and Thee (WilliamEst)",
+    "sinopsis": "Producción sofisticada donde las relaciones secundarias aportan matices íntimos y elegancia a la trama principal.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+    "anio": "2025",
+    "pais": "Tailandia",
+    "tropos": ["Sophisticated Drama", "Secondary Couple"],
+    "shipPrincipal": {
+      "nombreShip": "WilliamEst",
+      "actores": ["Jatuphum Nuan-a-ong (William)", "Suphachok Vilakod (Est)"],
+      "isActivo": true,
+      "descripcionGeneral": "Serie en la que aparecen como pareja secundaria; William interpreta a Rome.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 39,
+    "titulo": "You Maniac",
+    "sinopsis": "Un hombre coqueto acepta el reto de hacer que un chico reservado se enamore de él en un plan estructurado de 21 citas.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["21 Dates Challenge", "Flirty x Reserved", "Romance Challenge"],
+    "shipPrincipal": {
+      "nombreShip": "WilliamEst",
+      "actores": ["Jatuphum Nuan-a-ong (William)", "Suphachok Vilakod (Est)"],
+      "isActivo": true,
+      "descripcionGeneral": "Su segunda serie BL como protagonistas principales. William interpreta a Dean y Moth.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 40,
+    "titulo": "The Eclipse",
+    "sinopsis": "En una escuela estricta y tradicional, un prefecto y un estudiante rebelde investigan una supuesta maldición escolar mientras desafían las normas establecidas.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["School Mystery", "Enemies to Lovers", "Prefect x Rebel"],
+    "shipPrincipal": {
+      "nombreShip": "FirstKhao",
+      "actores": ["Kanaphan Puitrakul", "Thanawat Saengwanit"],
+      "isActivo": true,
+      "descripcionGeneral": "Como pareja principal interpretando a Ayan y Akk.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 41,
+    "titulo": "Our Skyy 2: The Eclipse",
+    "sinopsis": "Especiales de continuación para la vida y los nuevos desafíos universitarios de Akk y Ayan.",
+    "episodiosTotales": 2,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Spin-off", "Romance Consolidado"],
+    "shipPrincipal": {
+      "nombreShip": "FirstKhao",
+      "actores": ["Kanaphan Puitrakul", "Thanawat Saengwanit"],
+      "isActivo": true,
+      "descripcionGeneral": "Continuación de su historia en The Eclipse.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 42,
+    "titulo": "Only Friends",
+    "sinopsis": "Un grupo de jóvenes universitarios dueños de un hostal navegan por relaciones abiertas, celos, traiciones y romances complejos.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Complex Relationships", "Friends with Benefits to Lovers", "Angst"],
+    "shipPrincipal": {
+      "nombreShip": "FirstKhao",
+      "actores": ["Kanaphan Puitrakul", "Thanawat Saengwanit"],
+      "isActivo": true,
+      "descripcionGeneral": "Con los inolvidables personajes de Sand y Ray.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 43,
+    "titulo": "The Heart Killers (FirstKhao)",
+    "sinopsis": "Acción, peligro y romance se entrelazan en la vida de sicarios y objetivos en una trama criminal trepidante.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Tailandia",
+    "tropos": ["Action", "Crime", "Dangerous Romance"],
+    "shipPrincipal": {
+      "nombreShip": "FirstKhao",
+      "actores": ["Kanaphan Puitrakul", "Thanawat Saengwanit"],
+      "isActivo": true,
+      "descripcionGeneral": "Con los personajes de Bison y Fadel.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 44,
+    "titulo": "Cat for Cash",
+    "sinopsis": "Una comedia romántica con tintes felinos donde las enredadas situaciones cotidianas llevan a un romance inesperado.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Pets / Cats", "Romantic Comedy"],
+    "shipPrincipal": {
+      "nombreShip": "FirstKhao",
+      "actores": ["Kanaphan Puitrakul", "Thanawat Saengwanit"],
+      "isActivo": true,
+      "descripcionGeneral": "Como Lix y Tiger en esta producción.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 45,
+    "titulo": "Khemjira The Series",
+    "sinopsis": "Un sobrecogedor drama de romance sobrenatural y maldiciones ancestrales que marca la explosión de popularidad de sus protagonistas.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=600&auto=format&fit=crop",
+    "anio": "2025",
+    "pais": "Tailandia",
+    "tropos": ["Supernatural", "Horror Romance", "Ancestral Curse"],
+    "shipPrincipal": {
+      "nombreShip": "KengNamping",
+      "actores": ["Harit Buayoi (Keng)", "Napatsakorn Pingmuang (Namping)"],
+      "isActivo": true,
+      "descripcionGeneral": "Su gran éxito como pareja principal. Namping interpreta a Khem y Keng a Peem/Wat.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 46,
+    "titulo": "Khemjira Forever",
+    "sinopsis": "Episodio especial y conclusión definitiva que da cierre a los misterios y al romance sobrenatural de Khem y Pharan.",
+    "episodiosTotales": 1,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Special Episode", "Supernatural Conclusion"],
+    "shipPrincipal": {
+      "nombreShip": "KengNamping",
+      "actores": ["Harit Buayoi (Keng)", "Napatsakorn Pingmuang (Namping)"],
+      "isActivo": true,
+      "descripcionGeneral": "Episodio especial o continuación de la historia de Khem y Pharan para dar cierre a la trama.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 47,
+    "titulo": "Time Space & Matter",
+    "sinopsis": "Miniserie promocional de formato vertical que explora conexiones temporales y afectivas.",
+    "episodiosTotales": 6,
+    "imagenUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Vertical Format", "Time & Space", "Romance"],
+    "shipPrincipal": {
+      "nombreShip": "KengNamping",
+      "actores": ["Harit Buayoi (Keng)", "Napatsakorn Pingmuang (Namping)"],
+      "isActivo": true,
+      "descripcionGeneral": "Miniserie promocional de formato vertical en la que interpretan a Than y Aek.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 48,
+    "titulo": "Still Holding Up Like the Moon",
+    "sinopsis": "Drama romántico de época o ambientación especial centrado en la lealtad y los afectos profundos.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Period Drama", "Loyalty & Love"],
+    "shipPrincipal": {
+      "nombreShip": "KengNamping",
+      "actores": ["Harit Buayoi (Keng)", "Napatsakorn Pingmuang (Namping)"],
+      "isActivo": true,
+      "descripcionGeneral": "Drama donde Keng interpreta a Duean y Namping tiene el papel principal.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 49,
+    "titulo": "Perfect 10 Liners",
+    "sinopsis": "Una popular serie de romance universitario que sigue las vivencias, enredos y romances de un grupo de estudiantes de ingeniería.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Tailandia",
+    "tropos": ["University Life", "Engineers", "Romance Universitario"],
+    "shipPrincipal": {
+      "nombreShip": "PerthSanta",
+      "actores": ["Tanapon Sukumpantanasan (Perth)", "Pongsapak Oudompoch (Santa)"],
+      "isActivo": true,
+      "descripcionGeneral": "Popular serie de romance universitario donde interpretaron a una de las parejas principales.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/2f/c7/b5/2fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 50,
+    "titulo": "Me and Thee (PerthSanta)",
+    "sinopsis": "Producción sofisticada de GMMTV donde las subtramas románticas aportan elegancia y matices íntimos al argumento general.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+    "anio": "2025",
+    "pais": "Tailandia",
+    "tropos": ["Sophisticated Drama", "Secondary Couple"],
+    "shipPrincipal": {
+      "nombreShip": "PerthSanta",
+      "actores": ["Tanapon Sukumpantanasan (Perth)", "Pongsapak Oudompoch (Santa)"],
+      "isActivo": true,
+      "descripcionGeneral": "Producción tailandesa de 10 episodios.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/2f/c7/b5/2fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 51,
+    "titulo": "Love You Teacher",
+    "sinopsis": "Un severo profesor de primaria ve su vida patas arriba cuando su novio, el maestro Solar, sufre un accidente que hace que su cerebro se reinicie a la edad de 7 años cada dos días.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Teacher x Teacher", "Memory Loss / Reset", "Emotional Romance"],
+    "shipPrincipal": {
+      "nombreShip": "PerthSanta",
+      "actores": ["Tanapon Sukumpantanasan (Perth)", "Pongsapak Oudompoch (Santa)"],
+      "isActivo": true,
+      "descripcionGeneral": "Protagonizan esta tierna e inusual historia de amor como los maestros Pobmek y Solar.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/2f/c7/b5/2fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 52,
+    "titulo": "Heartbound Series",
+    "sinopsis": "Una trama madura de alto voltaje que combina romance, acción y el peligroso submundo de las mafias.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Action", "Mafia", "Dangerous Romance"],
+    "shipPrincipal": {
+      "nombreShip": "PerthSanta",
+      "actores": ["Tanapon Sukumpantanasan (Perth)", "Pongsapak Oudompoch (Santa)"],
+      "isActivo": true,
+      "descripcionGeneral": "Protagonizada por Ai y Gun De Gustro en una propuesta de acción y mafias.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/2f/c7/b5/2fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 53,
+    "titulo": "Sweet Tooth, Good Dentist",
+    "sinopsis": "Una comedia romántica ligera y entrañable sobre las divertidas complicaciones de acudir al dentista y el amor en el consultorio.",
+    "episodiosTotales": 11,
+    "imagenUrl": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?q=80&w=600&auto=format&fit=crop",
+    "anio": "2025",
+    "pais": "Tailandia",
+    "tropos": ["Dental Clinic", "Comedia Romántica", "Sweet Romance"],
+    "shipPrincipal": {
+      "nombreShip": "MarkOhm",
+      "actores": ["Mark Pakin Kunaanuwit", "Ohm Thiphakorn Thitathan"],
+      "isActivo": true,
+      "descripcionGeneral": "Comedia romántica de tipo BL de 11 episodios dirigida por Pepzi B.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/5f/c7/b5/5fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 54,
+    "titulo": "Roommate Chaos",
+    "sinopsis": "Una alocada convivencia entre múltiples inquilinos donde el caos diario da pie a enredos y romances inesperados.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Roommates", "Ensemble", "Comedia"],
+    "shipPrincipal": {
+      "nombreShip": "MarkOhm",
+      "actores": ["Mark Pakin Kunaanuwit", "Ohm Thiphakorn Thitathan"],
+      "isActivo": true,
+      "descripcionGeneral": "Comparten protagonismo y espacio con otras parejas en medio de situaciones caóticas.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/5f/c7/b5/5fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 55,
+    "titulo": "My Golden Blood",
+    "sinopsis": "Un drama de romance y fantasía oscuro y cautivador donde un poderoso vampiro cruza su camino con un humano que posee sangre dorada.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
+    "anio": "2025",
+    "pais": "Tailandia",
+    "tropos": ["Vampires", "Fantasy Romance", "Golden Blood"],
+    "shipPrincipal": {
+      "nombreShip": "JossGawin",
+      "actores": ["Joss Way-ar Sangngern", "Gawin Caskey"],
+      "isActivo": true,
+      "descripcionGeneral": "Su primera serie juntos como pareja principal. Joss interpreta a un vampiro y Gawin a un humano con sangre dorada.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/6f/c7/b5/6fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 56,
+    "titulo": "Only Friends: Dream On",
+    "sinopsis": "Secuela de la exitosa serie Only Friends, profundizando en las complejas dinámicas de sus personajes.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Spin-off", "Complex Relationships"],
+    "shipPrincipal": {
+      "nombreShip": "JossGawin",
+      "actores": ["Joss Way-ar Sangngern", "Gawin Caskey"],
+      "isActivo": true,
+      "descripcionGeneral": "Secuela de la exitosa Only Friends (2023) con participación en el elenco.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/6f/c7/b5/6fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 57,
+    "titulo": "Round One",
+    "sinopsis": "Un boxeador profesional y un periodista deportivo se ven atrapados en un bucle temporal que los obliga a revivir su pasado y sus sentimientos.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Time Loop", "Athlete x Journalist", "Boxing"],
+    "shipPrincipal": {
+      "nombreShip": "JossGawin",
+      "actores": ["Joss Way-ar Sangngern", "Gawin Caskey"],
+      "isActivo": true,
+      "descripcionGeneral": "Zack (boxeador) y Nick (periodista deportivo) atrapados en un bucle temporal.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/6f/c7/b5/6fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 58,
+    "titulo": "Secret Love",
+    "sinopsis": "Una intensa miniserie de romance y misterio protagonizada por el sello de Dumundi.",
+    "episodiosTotales": 6,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Tailandia",
+    "tropos": ["Secret Romance", "Mini-series"],
+    "shipPrincipal": {
+      "nombreShip": "TleFirstOne",
+      "actores": ["Tle", "FirstOne"],
+      "isActivo": true,
+      "descripcionGeneral": "Su primera miniserie BL juntos, con gran popularidad en YouTube y plataformas digitales.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/8f/c7/b5/8fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 59,
+    "titulo": "My Merman",
+    "sinopsis": "Una romántica fantasía inspirada en una versión BL de La Sirenita, donde un tritón entrega su perla a un aspirante a idol que perdió la voz.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Fantasy", "Merman / Siren", "Idol x Magical Being"],
+    "shipPrincipal": {
+      "nombreShip": "TleFirstOne",
+      "actores": ["Tle", "FirstOne"],
+      "isActivo": true,
+      "descripcionGeneral": "Inspirada en una versión BL de La Sirenita, donde FirstOne interpreta a una sirena/tritón.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/8f/c7/b5/8fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 60,
+    "titulo": "Cutie Pie",
+    "sinopsis": "Un joven heredero intenta romper el compromiso arreglado con su prometido fingiendo ser una persona completamente diferente, desatando una red de secretos y amor sincero.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Arranged Marriage", "Secret Identity", "Rich Heir"],
+    "shipPrincipal": {
+      "nombreShip": "ZeeNuNew",
+      "actores": ["Pruk Panich (Zee)", "Chawarin Perdpiriyawong (NuNew)"],
+      "isActivo": true,
+      "descripcionGeneral": "Su serie más famosa, una comedia romántica sobre un compromiso arreglado y la búsqueda de la verdadera identidad en el amor.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 61,
+    "titulo": "Cutie Pie 2 You",
+    "sinopsis": "Secuela en formato especial que continúa la vida en pareja y los preparativos de boda de Lian y Kuea.",
+    "episodiosTotales": 4,
+    "imagenUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Spin-off", "Wedding Preparations", "Domesticity"],
+    "shipPrincipal": {
+      "nombreShip": "ZeeNuNew",
+      "actores": ["Pruk Panich (Zee)", "Chawarin Perdpiriyawong (NuNew)"],
+      "isActivo": true,
+      "descripcionGeneral": "Una secuela en formato especial que continúa la historia de la pareja tras los eventos de la primera temporada.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 62,
+    "titulo": "The Next Prince",
+    "sinopsis": "Un príncipe reacio a la corona y su leal guardaespaldas enfrentan peligrosas intrigas políticas y conspiraciones en el reino de Emily.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=600&auto=format&fit=crop",
+    "anio": "2025",
+    "pais": "Tailandia",
+    "tropos": ["Royalty", "Bodyguard x Prince", "Political Intrigue"],
+    "shipPrincipal": {
+      "nombreShip": "ZeeNuNew",
+      "actores": ["Pruk Panich (Zee)", "Chawarin Perdpiriyawong (NuNew)"],
+      "isActivo": true,
+      "descripcionGeneral": "Un drama de fantasía y realeza donde un príncipe reacio y su leal guardaespaldas enfrentan intrigas políticas en el reino de Emily.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 63,
+    "titulo": "Zomvivor",
+    "sinopsis": "Una frenética serie de suspense y supervivencia donde un grupo de jóvenes lucha por mantenerse con vida en medio de un apocalipsis zombie.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
+    "anio": "2025",
+    "pais": "Tailandia",
+    "tropos": ["Zombie Apocalypse", "Survival", "Suspense"],
+    "shipPrincipal": {
+      "nombreShip": "ZeeNuNew",
+      "actores": ["Pruk Panich (Zee)", "Chawarin Perdpiriyawong (NuNew)"],
+      "isActivo": true,
+      "descripcionGeneral": "Una serie de suspense y supervivencia en un escenario de apocalipsis zombie.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 64,
+    "titulo": "The D Dorm",
+    "sinopsis": "Una intrigante producción ambientada en misteriosos dormitorios estudiantiles.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Dormitory Life", "Mystery"],
+    "shipPrincipal": {
+      "nombreShip": "ZeeNuNew",
+      "actores": ["Pruk Panich (Zee)", "Chawarin Perdpiriyawong (NuNew)"],
+      "isActivo": true,
+      "descripcionGeneral": "Producción programada para el año 2026.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 65,
+    "titulo": "Hug E-Lhee: Somtum Rhapsody",
+    "sinopsis": "Una comedia romántica con toques culturales y culinarios alrededor de la gastronomía tradicional y el romance.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Food Culture", "Comedia Romántica"],
+    "shipPrincipal": {
+      "nombreShip": "ZeeNuNew",
+      "actores": ["Pruk Panich (Zee)", "Chawarin Perdpiriyawong (NuNew)"],
+      "isActivo": true,
+      "descripcionGeneral": "Proyecto en emisión dentro de la agenda de la pareja.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 66,
+    "titulo": "Until We Meet Again",
+    "sinopsis": "Dos estudiantes universitarios descubren que sus vidas están unidas por una trágica promesa de amor de su pasado.",
+    "episodiosTotales": 17,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2019",
+    "pais": "Tailandia",
+    "tropos": ["Reincarnation", "Past Life Lovers", "Angst"],
+    "shipPrincipal": {
+      "nombreShip": "BounPrem",
+      "actores": ["Noppanut Guntachai (Boun)", "Warut Chawalitrujiwong (Prem)"],
+      "isActivo": true,
+      "descripcionGeneral": "Su debut como pareja secundaria interpretando a Win y Team.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 67,
+    "titulo": "7 Project",
+    "sinopsis": "Antología de historias independientes que exploran diferentes facetas del amor juvenil en el Tailandia actual.",
+    "episodiosTotales": 7,
+    "imagenUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=600&auto=format&fit=crop",
+    "anio": "2021",
+    "pais": "Tailandia",
+    "tropos": ["Anthology", "Youth Romance"],
+    "shipPrincipal": {
+      "nombreShip": "BounPrem",
+      "actores": ["Noppanut Guntachai (Boun)", "Warut Chawalitrujiwong (Prem)"],
+      "isActivo": true,
+      "descripcionGeneral": "Protagonizan los capítulos titulados Once Upon a Time.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 68,
+    "titulo": "Even Sun",
+    "sinopsis": "Un joven heredero es enviado a una isla tropical para cobrar una deuda, encontrando un inesperado romance con el lugareño.",
+    "episodiosTotales": 6,
+    "imagenUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Island Setting", "Debts and Romance"],
+    "shipPrincipal": {
+      "nombreShip": "BounPrem",
+      "actores": ["Noppanut Guntachai (Boun)", "Warut Chawalitrujiwong (Prem)"],
+      "isActivo": true,
+      "descripcionGeneral": "Miniserie de 6 episodios donde interpretan a Sun y Ath.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 69,
+    "titulo": "Between Us",
+    "sinopsis": "Spin-off centrado en la relación de Win y Team, explorando cómo superan sus miedos personales y construyen una sólida relación.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["University Swimming", "Emotional Healing", "Friends with Benefits to Lovers"],
+    "shipPrincipal": {
+      "nombreShip": "BounPrem",
+      "actores": ["Noppanut Guntachai (Boun)", "Warut Chawalitrujiwong (Prem)"],
+      "isActivo": true,
+      "descripcionGeneral": "Su serie más famosa como protagonistas principales, retomando los papeles de Win y Team.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 70,
+    "titulo": "Revamp: The Undead Story",
+    "sinopsis": "Una oscura y fascinante serie de vampiros ambientada en una atmósfera gótica y misteriosa.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=600&auto=format&fit=crop",
+    "anio": "2025",
+    "pais": "Tailandia",
+    "tropos": ["Vampires", "Gothic Romance"],
+    "shipPrincipal": {
+      "nombreShip": "BounPrem",
+      "actores": ["Noppanut Guntachai (Boun)", "Warut Chawalitrujiwong (Prem)"],
+      "isActivo": true,
+      "descripcionGeneral": "Serie de vampiros producida por GMMTV donde interpretan los roles principales.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 71,
+    "titulo": "Plan B to U",
+    "sinopsis": "Comedia romántica moderna sobre planes improvisados y segundas oportunidades amorosas.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Romantic Comedy", "Modern Life"],
+    "shipPrincipal": {
+      "nombreShip": "BounPrem",
+      "actores": ["Noppanut Guntachai (Boun)", "Warut Chawalitrujiwong (Prem)"],
+      "isActivo": true,
+      "descripcionGeneral": "Anunciada en la programación de GMM25.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 72,
+    "titulo": "En of Love: Love Mechanics",
+    "sinopsis": "Un estudiante de ingeniería y un joven universitario se enredan en una intensa relación tras una noche inesperada.",
+    "episodiosTotales": 4,
+    "imagenUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=600&auto=format&fit=crop",
+    "anio": "2020",
+    "pais": "Tailandia",
+    "tropos": ["One Night Stand to Lovers", "University Life"],
+    "shipPrincipal": {
+      "nombreShip": "YinWar",
+      "actores": ["Anan Wong (Yin)", "Wanarat Ratsameerat (War)"],
+      "isActivo": true,
+      "descripcionGeneral": "Historia secundaria que los dio a conocer como Vee y Mark.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 73,
+    "titulo": "The Best Story",
+    "sinopsis": "Miniserie dramática emotiva sobre primeros amores y recuerdos imborrables de la juventud.",
+    "episodiosTotales": 3,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2021",
+    "pais": "Tailandia",
+    "tropos": ["Youth Drama", "First Love"],
+    "shipPrincipal": {
+      "nombreShip": "YinWar",
+      "actores": ["Anan Wong (Yin)", "Wanarat Ratsameerat (War)"],
+      "isActivo": true,
+      "descripcionGeneral": "Miniserie dramática de 3 episodios.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 74,
+    "titulo": "Love Mechanics",
+    "sinopsis": "Versión ampliada y completa del romance entre Vee y Mark, explorando a fondo sus conflictos emocionales.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Angst", "Second Chance", "University Engineering"],
+    "shipPrincipal": {
+      "nombreShip": "YinWar",
+      "actores": ["Anan Wong (Yin)", "Wanarat Ratsameerat (War)"],
+      "isActivo": true,
+      "descripcionGeneral": "Serie completa de 10 episodios (remake/expansión de su historia principal).",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 75,
+    "titulo": "Jack & Joker: U Steal My Heart!",
+    "sinopsis": "Un cobrador de deudas con un pasado complejo y un maestro del engaño cruzan sus caminos en un juego de persecución y romance.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Tailandia",
+    "tropos": ["Debt Collector x Con Artist", "Action Romance"],
+    "shipPrincipal": {
+      "nombreShip": "YinWar",
+      "actores": ["Anan Wong (Yin)", "Wanarat Ratsameerat (War)"],
+      "isActivo": true,
+      "descripcionGeneral": "Trata sobre un cobrador de deudas (Jack) y un maestro del engaño (Joker).",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 76,
+    "titulo": "Police in Love",
+    "sinopsis": "Comedia romántica BL basada en la novela 'La mujer del inspector', donde un inspector y un sargento pactan un matrimonio temporal.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Police", "Fake Marriage", "Comedia Romántica"],
+    "shipPrincipal": {
+      "nombreShip": "YinWar",
+      "actores": ["Anan Wong (Yin)", "Wanarat Ratsameerat (War)"],
+      "isActivo": true,
+      "descripcionGeneral": "Comedia romántica BL donde interpretan a un inspector y un sargento que pactan un matrimonio temporal.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 77,
+    "titulo": "KinnPorsche: The Series",
+    "sinopsis": "El segundo hijo de un poderoso jefe de la mafia es rescatado por un joven barman experto en artes marciales, convirtiéndolo en su guardaespaldas y desatando una pasión incontrolable.",
+    "episodiosTotales": 14,
+    "imagenUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Mafia", "Bodyguard x Boss", "Action & Passion"],
+    "shipPrincipal": {
+      "nombreShip": "MileApo",
+      "actores": ["Phakphum Romsaithong (Mile)", "Nattawin Wattanagitiphat (Apo)"],
+      "isActivo": true,
+      "descripcionGeneral": "Éxito global que los catapultó a la fama como pareja BL interpretando a Kinn y Porsche.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/4fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 78,
+    "titulo": "Shine",
+    "sinopsis": "Un cautivador drama histórico y romance ambientado en el Bangkok de 1969, explorando las restricciones y pasiones de la época.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+    "anio": "2025",
+    "pais": "Tailandia",
+    "tropos": ["Historical Drama", "1960s Bangkok", "Period Romance"],
+    "shipPrincipal": {
+      "nombreShip": "MileApo",
+      "actores": ["Phakphum Romsaithong (Mile)", "Nattawin Wattanagitiphat (Apo)"],
+      "isActivo": true,
+      "descripcionGeneral": "Drama histórico y romance ambientado en el Bangkok de 1969, donde interpretan a Trin y Thanwa.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/4fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 79,
+    "titulo": "Big Dragon",
+    "sinopsis": "Un romance que inicia tras una noche inesperada entre dos jóvenes con personalidades fuertes que poco a poco se involucran de manera profunda.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["One Night Stand", "Enemies to Lovers", "Architect x Engineering"],
+    "shipPrincipal": {
+      "nombreShip": "MosBank",
+      "actores": ["Panuwat Supphadhorndej (Mos)", "Mondop Heamcoat (Bank)"],
+      "isActivo": true,
+      "descripcionGeneral": "Mos interpreta a Mangkorn y Bank interpreta a Yai.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 80,
+    "titulo": "Identity Zero",
+    "sinopsis": "Una serie de misterio psicológico y romance que explora temas de identidad y secretos del pasado.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Psychological Mystery", "Identity Secrets"],
+    "shipPrincipal": {
+      "nombreShip": "MosBank",
+      "actores": ["Panuwat Supphadhorndej (Mos)", "Mondop Heamcoat (Bank)"],
+      "isActivo": true,
+      "descripcionGeneral": "Serie original de iQIYI de misterio psicológico y romance junto a Bonz Nadol y Mark Siwat.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 81,
+    "titulo": "2gether: The Series",
+    "sinopsis": "Un estudiante universitario acosado por un admirador no deseado le pide a un popular y apuesto compañero de la banda que finja ser su novio falso.",
+    "episodiosTotales": 13,
+    "imagenUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=600&auto=format&fit=crop",
+    "anio": "2020",
+    "pais": "Tailandia",
+    "tropos": ["Fake Dating", "University Music", "Popular x Ordinary"],
+    "shipPrincipal": {
+      "nombreShip": "BrightWin",
+      "actores": ["Vachirawit Chivaaree (Bright)", "Metawin Opas-iamkajorn (Win)"],
+      "isActivo": false,
+      "descripcionGeneral": "La serie principal de 13 episodios donde interpretan a Sarawat y Tine, fenómeno global del BL.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/2f/c7/b5/2fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 82,
+    "titulo": "Still 2gether",
+    "sinopsis": "Secuela en formato especial que continúa la vida de Sarawat y Tine como pareja oficial ya graduados y al frente de los clubes universitarios.",
+    "episodiosTotales": 5,
+    "imagenUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=600&auto=format&fit=crop",
+    "anio": "2020",
+    "pais": "Tailandia",
+    "tropos": ["Spin-off", "Domesticidad", "University Life"],
+    "shipPrincipal": {
+      "nombreShip": "BrightWin",
+      "actores": ["Vachirawit Chivaaree (Bright)", "Metawin Opas-iamkajorn (Win)"],
+      "isActivo": false,
+      "descripcionGeneral": "La secuela en formato especial de 5 capítulos que continúa la historia de la pareja.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/2f/c7/b5/2fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 83,
+    "titulo": "TharnType: The Series",
+    "sinopsis": "Narra la relación entre Tharn, un estudiante de música abiertamente homosexual y amable, y Type, un compañero de habitación que al principio es homófobo debido a su pasado, pero que poco a poco se enamora de él.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=600&auto=format&fit=crop",
+    "anio": "2019",
+    "pais": "Tailandia",
+    "tropos": ["Enemies to Lovers", "Roommates", "Music Student x Athlete"],
+    "shipPrincipal": {
+      "nombreShip": "MewGulf",
+      "actores": ["Suppasit Jongcheveevat (Mew)", "Kanawut Traipipattanapong (Gulf)"],
+      "isActivo": false,
+      "descripcionGeneral": "Mew interpreta a Tharn y Gulf interpreta a Type en esta icónica serie del género BL.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 84,
+    "titulo": "TharnType 2: 7 Years of Love",
+    "sinopsis": "Ambientada siete años después de la primera temporada, muestra los desafíos de la madurez, la vida laboral, los celos y la estabilidad de pareja.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2020",
+    "pais": "Tailandia",
+    "tropos": ["Adult Romance", "7 Years Later", "Working Life"],
+    "shipPrincipal": {
+      "nombreShip": "MewGulf",
+      "actores": ["Suppasit Jongcheveevat (Mew)", "Kanawut Traipipattanapong (Gulf)"],
+      "isActivo": false,
+      "descripcionGeneral": "Retoman sus papeles como Tharn y Type enfrentando los retos de la madurez y la vida laboral.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 85,
+    "titulo": "Bad Romance: The Series",
+    "sinopsis": "Comedia romántica que sigue las peripecias amorosas de un grupo de amigos universitarios, donde una pareja secundaria acapara la atención por su gran química.",
+    "episodiosTotales": 13,
+    "imagenUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=600&auto=format&fit=crop",
+    "anio": "2016",
+    "pais": "Tailandia",
+    "tropos": ["Enemies to Lovers", "University Life", "Secondary Couple"],
+    "shipPrincipal": {
+      "nombreShip": "MaxTul",
+      "actores": ["Nattapol Diloknawarit (Max)", "Pakorn Thanasrivanitchai (Tul)"],
+      "isActivo": false,
+      "descripcionGeneral": "Aparecen como los personajes secundarios Korn y Knock, ganando gran popularidad por su química.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/4fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 86,
+    "titulo": "Together With Me: The Series",
+    "sinopsis": "Precuela y secuela directa de Bad Romance que narra el doloroso y apasionionado camino de dos amigos universitarios que descubren su amor mutuo.",
+    "episodiosTotales": 13,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2017",
+    "pais": "Tailandia",
+    "tropos": ["Best Friends to Lovers", "University Life", "Angst"],
+    "shipPrincipal": {
+      "nombreShip": "MaxTul",
+      "actores": ["Nattapol Diloknawarit (Max)", "Pakorn Thanasrivanitchai (Tul)"],
+      "isActivo": false,
+      "descripcionGeneral": "Cuenta la historia completa de cómo Korn y Knock pasan de ser amigos universitarios a convertirse en pareja.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/4fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 87,
+    "titulo": "Together With Me: The Next Chapter",
+    "sinopsis": "Korn y Knock enfrentan los retos de la vida adulta, la convivencia formal y las presiones de sus familias tras consolidar su relación.",
+    "episodiosTotales": 13,
+    "imagenUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2018",
+    "pais": "Tailandia",
+    "tropos": ["Adult Romance", "Cohabitation", "Family Pressure"],
+    "shipPrincipal": {
+      "nombreShip": "MaxTul",
+      "actores": ["Nattapol Diloknawarit (Max)", "Pakorn Thanasrivanitchai (Tul)"],
+      "isActivo": false,
+      "descripcionGeneral": "Continuación de la vida de Korn y Knock ya como una pareja establecida que enfrenta nuevos retos de la adultez.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/4fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 88,
+    "titulo": "Manner of Death",
+    "sinopsis": "Un médico forense y un profesor investigador se ven envueltos en una compleja trama criminal e investigan un asesinato encubierto.",
+    "episodiosTotales": 14,
+    "imagenUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
+    "anio": "2020",
+    "pais": "Tailandia",
+    "tropos": ["Forensic Mystery", "Crime Thriller", "Mature Romance"],
+    "shipPrincipal": {
+      "nombreShip": "MaxTul",
+      "actores": ["Nattapol Diloknawarit (Max)", "Pakorn Thanasrivanitchai (Tul)"],
+      "isActivo": false,
+      "descripcionGeneral": "Un cambio de género hacia el misterio, el thriller y el drama criminal, donde Tul interpreta a un médico forense y Max a un profesor/investigador.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/4fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 89,
+    "titulo": "SOTUS: The Series",
+    "sinopsis": "En una exigente facultad de ingeniería, un severo jefe de escuadrón de novatadas y un estudiante rebelde de primer año entablan un intenso duelo de voluntades que evoluciona hacia el amor.",
+    "episodiosTotales": 15,
+    "imagenUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=600&auto=format&fit=crop",
+    "anio": "2016",
+    "pais": "Tailandia",
+    "tropos": ["Hazing System", "Enemies to Lovers", "Senior x Junior"],
+    "shipPrincipal": {
+      "nombreShip": "SingtoKrist",
+      "actores": ["Perawat Sangpotirat (Krist)", "Prachaya Ruangroj (Singto)"],
+      "isActivo": true,
+      "descripcionGeneral": "Su primer gran éxito y la serie BL pionera de GMMTV, donde interpretan a Arthit y Kongpob.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 90,
+    "titulo": "SOTUS S: The Series",
+    "sinopsis": "Arthit y Kongpob se enfrentan a los desafíos del mundo laboral, las expectativas profesionales y la madurez de su relación.",
+    "episodiosTotales": 13,
+    "imagenUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2017",
+    "pais": "Tailandia",
+    "tropos": ["Working Life", "Long Term Relationship", "Office Romance"],
+    "shipPrincipal": {
+      "nombreShip": "SingtoKrist",
+      "actores": ["Perawat Sangpotirat (Krist)", "Prachaya Ruangroj (Singto)"],
+      "isActivo": true,
+      "descripcionGeneral": "La segunda temporada que continúa la historia de Arthit y Kongpob ya como pareja en el ámbito laboral y universitario.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 91,
+    "titulo": "Our Skyy (SingtoKrist)",
+    "sinopsis": "Capítulo especial autoconclusivo que explora un momento crucial en la vida en pareja de Arthit y Kongpob.",
+    "episodiosTotales": 1,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2018",
+    "pais": "Tailandia",
+    "tropos": ["Spin-off", "Domesticity"],
+    "shipPrincipal": {
+      "nombreShip": "SingtoKrist",
+      "actores": ["Perawat Sangpotirat (Krist)", "Prachaya Ruangroj (Singto)"],
+      "isActivo": true,
+      "descripcionGeneral": "Protagonizan un capítulo que funciona como continuación/secuela de su historia en SOTUS.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 92,
+    "titulo": "Write You Again / The Ex-Morning",
+    "sinopsis": "Una profunda y madura exploración sobre reencuentros, emociones contenidas y un romance marcado por el paso del tiempo.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Tailandia",
+    "tropos": ["Second Chance", "Mature Romance", "Emotional Drama"],
+    "shipPrincipal": {
+      "nombreShip": "SingtoKrist",
+      "actores": ["Perawat Sangpotirat (Krist)", "Prachaya Ruangroj (Singto)"],
+      "isActivo": true,
+      "descripcionGeneral": "Su esperado regreso como protagonistas juntos en una serie con un tono más maduro y emocional, interpretando a Pathapi y Tamtawan.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 93,
+    "titulo": "Semantic Error",
+    "sinopsis": "Un estudiante de informática muy estructurado ve su vida alterada cuando un espíritu libre de diseño gráfico se convierte en su mayor obsesión.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Corea del Sur",
+    "tropos": ["Grumpy x Sunshine", "Enemies to Lovers", "University Life"],
+    "shipPrincipal": {
+      "nombreShip": "SeohamJaechan",
+      "actores": ["Park Seo-ham", "Park Jae-chan"],
+      "isActivo": true,
+      "descripcionGeneral": "Basada en la popular novela web homónima, interpretando a Jang Jae-young y Chu Sang-woo.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/5f/c7/b5/5fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 94,
+    "titulo": "To My Star",
+    "sinopsis": "Un famoso actor en crisis de imagen pública se refugia en la casa de un chef pragmático, dando inicio a un romance secreto y acogedor.",
+    "episodiosTotales": 9,
+    "imagenUrl": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?q=80&w=600&auto=format&fit=crop",
+    "anio": "2021",
+    "pais": "Corea del Sur",
+    "tropos": ["Celebrity x Chef", "Cohabitation", "Slow Burn"],
+    "shipPrincipal": {
+      "nombreShip": "WooHyunKangMin",
+      "actores": ["Son Woo Hyun", "Kim Kang Min"],
+      "isActivo": true,
+      "descripcionGeneral": "Narra el romance entre el famoso actor Kang Seo Joon y el chef Han Ji Woo.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/4fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 95,
+    "titulo": "To My Star 2: Our Untold Stories",
+    "sinopsis": "La pareja enfrenta graves crisis emocionales y las dificultades cotidianas de mantener su romance a flote bajo la presión pública.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Corea del Sur",
+    "tropos": ["Angst", "Relationship Crisis", "Domesticity"],
+    "shipPrincipal": {
+      "nombreShip": "WooHyunKangMin",
+      "actores": ["Son Woo Hyun", "Kim Kang Min"],
+      "isActivo": true,
+      "descripcionGeneral": "Continúa la historia de la pareja mientras enfrentan las dificultades cotidianas y crisis emocionales.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/4fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 96,
+    "titulo": "The Prosecutor's Proposal",
+    "sinopsis": "Un drama de romance del subgénero Boys Love que sigue la historia y el romance entre un investigador, hijo de un asesino, y una fiscal.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
+    "anio": "2026",
+    "pais": "Corea del Sur",
+    "tropos": ["Investigator x Prosecutor", "Crime & Romance"],
+    "shipPrincipal": {
+      "nombreShip": "YoonSikSiWoo",
+      "actores": ["Kim Yoon Sik", "Park Si Woo"],
+      "isActivo": true,
+      "descripcionGeneral": "Protagonistas de la adaptación a serie dramática The Prosecutor's Proposal.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/2f/c7/b5/2fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 97,
+    "titulo": "Love for Love's Sake",
+    "sinopsis": "Un hombre de 29 años despierta atrapado dentro de un videojuego en el cuerpo de un estudiante y debe hacer feliz a su personaje favorito en 300 días o enfrentarse a la muerte.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Corea del Sur",
+    "tropos": ["Isekai / Video Game", "Fantasy Romance", "Mission to Save"],
+    "shipPrincipal": {
+      "nombreShip": "TaevinWoobin",
+      "actores": ["Lee Tae-vin", "Cha Joo-wan"],
+      "isActivo": true,
+      "descripcionGeneral": "Protagonizada por Lee Tae-vin y Cha Joo-wan en esta aclamada miniserie de fantasía y romance.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 98,
+    "titulo": "Love in Protocol",
+    "sinopsis": "Un emotivo romance que explora el reencuentro entre un antiguo tutor privado y su estudiante en un riguroso entorno científico.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?q=80&w=600&auto=format&fit=crop",
+    "anio": "2025",
+    "pais": "Corea del Sur",
+    "tropos": ["Tutor x Student", "Reunion", "Scientific Setting"],
+    "shipPrincipal": {
+      "nombreShip": "SangminJaejong",
+      "actores": ["Lee Sang-min", "Jeong Jae Jong"],
+      "isActivo": true,
+      "descripcionGeneral": "Un ship que conquistó al público a través del tropo del reencuentro entre un tutor y su estudiante en un entorno científico.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/8f/c7/b5/8fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 99,
+    "titulo": "HIStory3: Trapped",
+    "sinopsis": "Un capitán de policía y un líder de la mafia entablan una peligrosa y fascinante relación tras un enfrentamiento que cambia sus destinos.",
+    "episodiosTotales": 20,
+    "imagenUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
+    "anio": "2019",
+    "pais": "Taiwán",
+    "tropos": ["Cop x Mafia", "Enemies to Lovers", "Danger & Romance"],
+    "shipPrincipal": {
+      "nombreShip": "ChrisChen & JakeHsu",
+      "actores": ["Chris Wu", "Jake Hsu"],
+      "isActivo": true,
+      "descripcionGeneral": "Parte de la emblemática antología taiwanesa HIStory, combinando la tensión policial con el bajo mundo criminal.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 100,
+    "titulo": "Unknown",
+    "sinopsis": "Un drama intenso y aclamado por la fuerte carga emocional y el dilema moral entre sus protagonistas.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Taiwán",
+    "tropos": ["Emotional Drama", "Moral Dilemma", "Intense Romance"],
+    "shipPrincipal": {
+      "nombreShip": "YU & Chris",
+      "actores": ["Actor Principal 1", "Actor Principal 2"],
+      "isActivo": true,
+      "descripcionGeneral": "Un drama taiwanés intenso y aclamado por su fuerte carga emocional.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 101,
+    "titulo": "The Untamed",
+    "sinopsis": "Dos discípulos de clanes espirituales investigan una serie de misterios trágicos, uniendo sus almas en un viaje místico que desafía al mundo de los cultivadores.",
+    "episodiosTotales": 50,
+    "imagenUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=600&auto=format&fit=crop",
+    "anio": "2019",
+    "pais": "China",
+    "tropos": ["Cultivación y Fantasía", "Alma Gemela", "Enemies to Confidants"],
+    "shipPrincipal": {
+      "nombreShip": "YiZhan",
+      "actores": ["Xiao Zhan", "Wang Yibo"],
+      "isActivo": false,
+      "descripcionGeneral": "El fenómeno de bromance de fantasía histórica más masivo del mundo.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/4fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 102,
+    "titulo": "Addicted (Heroin)",
+    "sinopsis": "Dos hermanastros por circunstancias familiares descubren que la convivencia bajo el mismo techo despierta una intensa y cruda pasión adolescente.",
+    "episodiosTotales": 15,
+    "imagenUrl": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?q=80&w=600&auto=format&fit=crop",
+    "anio": "2016",
+    "pais": "China",
+    "tropos": ["Hermanastros", "Forbidden Love", "Youth Romance"],
+    "shipPrincipal": {
+      "nombreShip": "TimmyJohnny",
+      "actores": ["Timmy Xu", "Johnny Huang"],
+      "isActivo": false,
+      "descripcionGeneral": "Un BL puro rodado en 2016 que desafió la censura y se convirtió en una obra de culto absoluta por su cruda e intensa historia.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/2f/c7/b5/2fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 103,
+    "titulo": "The Eighth Sense",
+    "sinopsis": "Un drama universitario con una cinematografía espectacular y un tono más maduro y realista sobre un estudiante de primer año y un veterano del club de surf que lidian con la salud mental y la atracción mutua.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Corea del Sur",
+    "tropos": ["University Life", "Surfing Club", "Mental Health & Romance"],
+    "shipPrincipal": {
+      "nombreShip": "JaeMin & JiHoon",
+      "actores": ["Oh Jun-taek", "Im Ji-sub"],
+      "isActivo": true,
+      "descripcionGeneral": "Protagonistas de uno de los K-BLs más aclamados por su realismo, atmósfera y profundidad emocional.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/4fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 104,
+    "titulo": "Love in the Big City",
+    "sinopsis": "Narra las complejas relaciones amorosas, decepciones y el crecimiento personal de un joven gay en Seúl a lo largo de los años.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1514565131-fce0801e5785?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Corea del Sur",
+    "tropos": ["Slice of Life", "Urban Romance", "Coming of Age"],
+    "shipPrincipal": {
+      "nombreShip": "Go-young & Partners",
+      "actores": ["Nam Yoon-su", "Jin Ho-u"],
+      "isActivo": false,
+      "descripcionGeneral": "Aclamado drama estilo slice of life protagonizado por Nam Yoon-su explorando la vida y el amor en la gran ciudad.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/2f/c7/b5/2fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 105,
+    "titulo": "Secret Relationships",
+    "sinopsis": "Basado en un popular webtoon de romance y oficina, explora un tenso y emocional triángulo amoroso donde los miedos, la madurez laboral y el pasado se cruzan continuamente.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2025",
+    "pais": "Corea del Sur",
+    "tropos": ["Office Romance", "Love Triangle", "Webtoon Adaptation"],
+    "shipPrincipal": {
+      "nombreShip": "Secret Partners",
+      "actores": ["Elenco Principal K-BL"],
+      "isActivo": true,
+      "descripcionGeneral": "Pareja protagonista de la adaptación del webtoon de oficina.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 106,
+    "titulo": "Heesu in Class 2",
+    "sinopsis": "Una comedia romántica estudiantil donde Heesu es considerado el consejero de citas de su clase, mientras lidia en secreto con su propio primer amor.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=600&auto=format&fit=crop",
+    "anio": "2025",
+    "pais": "Corea del Sur",
+    "tropos": ["High School", "Secret Crush", "Romantic Comedy"],
+    "shipPrincipal": {
+      "nombreShip": "Heesu & Chanyoung",
+      "actores": ["Ahn Hyun-ho", "Lee Sang-jun"],
+      "isActivo": true,
+      "descripcionGeneral": "Protagonistas de esta tierna comedia romántica escolar basada en un popular webtoon.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/8f/c7/b5/8fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 107,
+    "titulo": "Our Dating Sim",
+    "sinopsis": "Dos antiguos amigos de la escuela secundaria se reencuentran años después al tener que trabajar juntos diseñando un videojuego de citas.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Corea del Sur",
+    "tropos": ["Office / Game Dev", "Second Chance", "Friends to Lovers"],
+    "shipPrincipal": {
+      "nombreShip": "Lee Wan & Ki-tae",
+      "actores": ["Lee Seung-gyu", "Lee Jong-hyuk"],
+      "isActivo": true,
+      "descripcionGeneral": "Adorable química como desarrolladores de videojuegos que reviven su vieja amistad convertida en romance.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 108,
+    "titulo": "Jazz for Two",
+    "sinopsis": "Un drama escolar musical lleno de tensión, donde el amor por el jazz y los traumas del pasado unen a dos estudiantes de arte muy diferentes.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Corea del Sur",
+    "tropos": ["School Music", "Jazz Club", "Trauma and Healing"],
+    "shipPrincipal": {
+      "nombreShip": "Tae-yi & Se-hoon",
+      "actores": ["Ji Ho-zun", "Song Han-bread"],
+      "isActivo": true,
+      "descripcionGeneral": "Dúo protagonista de este drama musical escolar lleno de tensión y melodías.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/5f/c7/b5/5fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 109,
+    "titulo": "A Shoulder to Cry On",
+    "sinopsis": "Relata la compleja relación de amor-odio entre un arquero becado con un futuro brillante y el chico rebelde y popular del instituto.",
+    "episodiosTotales": 7,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Corea del Sur",
+    "tropos": ["High School", "Enemies to Lovers", "Archery Club"],
+    "shipPrincipal": {
+      "nombreShip": "Ye-chan & Jun-hyeok",
+      "actores": ["Kim Ye-chan", "Shin Jun-hyeok"],
+      "isActivo": true,
+      "descripcionGeneral": "Protagonizada por integrantes del grupo de K-pop OMEGA X, abordando una intensa relación de amor-odio.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 110,
+    "titulo": "You Make Me Dance",
+    "sinopsis": "Una inusual historia de amor entre un estudiante de danza contemporánea en crisis financieras y el implacable cobrador de deudas asignado a su caso.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=600&auto=format&fit=crop",
+    "anio": "2021",
+    "pais": "Corea del Sur",
+    "tropos": ["Debt Collector x Dancer", "Cohabitation", "Emotional Healing"],
+    "shipPrincipal": {
+      "nombreShip": "Si-on & Hong-seok",
+      "actores": [" 추영우 (Choo Young-woo)", "원형훈 (Won Hyung-hoon)"],
+      "isActivo": true,
+      "descripcionGeneral": "Una emotiva y delicada historia donde el arte de la danza y la crudeza de la vida se cruzan.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 111,
+    "titulo": "Word of Honor",
+    "sinopsis": "Épica historia Wuxia de artes marciales y almas gemelas que desafió los límites de la censura a través de un profundo vínculo entre dos maestros.",
+    "episodiosTotales": 36,
+    "imagenUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=600&auto=format&fit=crop",
+    "anio": "2021",
+    "pais": "China",
+    "tropos": ["Wuxia", "Soulmates", "Martial Arts"],
+    "shipPrincipal": {
+      "nombreShip": "ZhehanGongjun",
+      "actores": ["Zhang Zhehan", "Gong Jun"],
+      "isActivo": false,
+      "descripcionGeneral": "Épica historia Wuxia de artes marciales y almas gemelas que desafió los límites de la censura.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/4fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 112,
+    "titulo": "Stay With Me",
+    "sinopsis": "Dos hermanastros por circunstancias familiares descubren que la convivencia bajo el mismo techo despierta sentimientos intensos.",
+    "episodiosTotales": 24,
+    "imagenUrl": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "China",
+    "tropos": ["Stepmothers / Stepsiblings", "Youth Romance", "Modern Adaptation"],
+    "shipPrincipal": {
+      "nombreShip": "XuBinZhangJiongMin",
+      "actores": ["Xu Bin", "Zhang Jiong Min"],
+      "isActivo": true,
+      "descripcionGeneral": "Remake espiritual de Addicted adaptado con ingenio moderno para esquivar la censura.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/2f/c7/b5/2fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 113,
+    "titulo": "Cherry Magic! (30 Years of Virginity Can Make You a Wizard?)",
+    "sinopsis": "Un empleado de oficina que sigue siendo virgen al cumplir 30 años adquiere la habilidad mágica de leer los pensamientos al tocar a otros, descubriendo que su exitoso compañero está enamorado de él.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2020",
+    "pais": "Japón",
+    "tropos": ["Office Romance", "Magical Realism", "Slow Burn"],
+    "shipPrincipal": {
+      "nombreShip": "AkasoMachida",
+      "actores": ["Eiji Akaso", "Keita Machida"],
+      "isActivo": true,
+      "descripcionGeneral": "Comedia romántica de oficina fantástica que se convirtió en un fenómeno asiático absoluto.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/8f/c7/b5/8fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 114,
+    "titulo": "My Beautiful Man (Utsukushii Kare)",
+    "sinopsis": "Un estudiante solitario y tartamudo se enamora profundamente del chico más popular de la escuela, dando pie a una relación marcada por la devoción y la dependencia.",
+    "episodiosTotales": 6,
+    "imagenUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=600&auto=format&fit=crop",
+    "anio": "2021",
+    "pais": "Japón",
+    "tropos": ["Obsession", "High School", "Power Dynamics"],
+    "shipPrincipal": {
+      "nombreShip": "HagiwaraYusei",
+      "actores": ["Riku Hagiwara", "Yusei Yagi"],
+      "isActivo": true,
+      "descripcionGeneral": "Complejo e intenso estudio psicológico sobre la obsesión, el estatus social escolar y el amor.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 115,
+    "titulo": "Old Fashion Cupcake",
+    "sinopsis": "Un ejecutivo de oficina que atraviesa una crisis de mediana edad encuentra un nuevo sentido a su vida gracias a la inusual cercanía con su joven subordinado.",
+    "episodiosTotales": 5,
+    "imagenUrl": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Japón",
+    "tropos": ["Office Romance", "Mid-life Crisis", "Boss x Subordinate"],
+    "shipPrincipal": {
+      "nombreShip": "TakedaKimura",
+      "actores": ["Kouhei Takeda", "Tatsunari Kimura"],
+      "isActivo": true,
+      "descripcionGeneral": "Brillante y maduro romance de oficina centrado en la crisis de la mediana edad.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 116,
+    "titulo": "Kieta Hatsukoi (My Love Mix-Up!)",
+    "sinopsis": "Un malentendido con un borrador escolar hace creer a un chico que su compañera gusta de él, pero en realidad el objeto pertenece al chico de al lado.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=600&auto=format&fit=crop",
+    "anio": "2021",
+    "pais": "Japón",
+    "tropos": ["High School", "Mistaken Identity", "Sweet Romance"],
+    "shipPrincipal": {
+      "nombreShip": "MichiedaMeguro",
+      "actores": ["Shunsuke Michieda", "Ren Meguro"],
+      "isActivo": false,
+      "descripcionGeneral": "Romance escolar tierno, divertido e inocente basado en malentendidos e identidades cruzadas.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 117,
+    "titulo": "Gameboys",
+    "sinopsis": "Dos jóvenes filipinos se conectan a través de transmisiones en vivo y videollamadas durante el confinamiento global, descubriendo que el amor puede florecer en la distancia.",
+    "episodiosTotales": 13,
+    "imagenUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=600&auto=format&fit=crop",
+    "anio": "2020",
+    "pais": "Filipinas",
+    "tropos": ["Lockdown Romance", "Virtual Dating", "Screen Life"],
+    "shipPrincipal": {
+      "nombreShip": "KokoyElijah",
+      "actores": ["Kokoy de Santos", "Elijah Canlas"],
+      "isActivo": true,
+      "descripcionGeneral": "Pionera mundial grabada durante el confinamiento mediante videollamadas y redes sociales.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 118,
+    "titulo": "Gaya Sa Pelikula (Like in the Movies)",
+    "sinopsis": "Un estudiante de arquitectura que necesita dinero alquila una habitación a un misterioso estudiante de cine, dando inicio a un viaje de autodescubrimiento y afecto.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=600&auto=format&fit=crop",
+    "anio": "2020",
+    "pais": "Filipinas",
+    "tropos": ["Roommates", "Coming of Age", "Cinematic Romance"],
+    "shipPrincipal": {
+      "nombreShip": "IanPaolo",
+      "actores": ["Ian Pangilinan", "Paolo Pangilinan"],
+      "isActivo": false,
+      "descripcionGeneral": "Aclamada por su profunda carta de amor a la autoaceptación y los derechos de la comunidad.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/5f/c7/b5/5fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 119,
+    "titulo": "Heartstopper",
+    "sinopsis": "Dos adolescentes británicos se conocen en la escuela secundaria y descubren que su inesperada amistad se convierte en un tierno romance juvenil.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Reino Unido",
+    "tropos": ["High School", "Friends to Lovers", "Sweet Romance"],
+    "shipPrincipal": {
+      "nombreShip": "KitJoe",
+      "actores": ["Kit Connor", "Joe Locke"],
+      "isActivo": true,
+      "descripcionGeneral": "Fenómeno global de Netflix que expandió la narrativa del romance escolar LGBT+ occidental.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/2f/c7/b5/2fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 120,
+    "titulo": "4 Minutes",
+    "sinopsis": "Un joven contador con la extraña habilidad de ver cuatro minutos hacia el futuro se ve envuelto en una peligrosa red de misterios, asesinatos y una intensa atracción.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Tailandia",
+    "tropos": ["Time Manipulation", "Thriller", "Dangerous Romance"],
+    "shipPrincipal": {
+      "nombreShip": "BibleJes",
+      "actores": ["Bible Wichapas Sumettikul", "Jes Jespipat Tilapornputt"],
+      "isActivo": true,
+      "descripcionGeneral": "Protagonistas absolutos de este aclamado thriller de acción y romance de Be On Cloud.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/2f/c7/b5/2fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 121,
+    "titulo": "609 Bedtime Story",
+    "sinopsis": "Un joven playboy que alquila habitaciones descubre que un misterioso hombre aparece en su cama todas las noches en sueños que se sienten demasiado reales.",
+    "episodiosTotales": 11,
+    "imagenUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Supernatural", "Parallel Dimensions", "Mystery Romance"],
+    "shipPrincipal": {
+      "nombreShip": "OhmFluke",
+      "actores": ["Thitiwat Ritprasert (Ohm)", "Natouch Siripongthon (Fluke)"],
+      "isActivo": true,
+      "descripcionGeneral": "Duó protagónico conocido por su fuerte química previa en Until We Meet Again, aquí explorando una fantasía temporal.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 122,
+    "titulo": "A Boss and a Babe",
+    "sinopsis": "Un exigente director ejecutivo de una empresa de videojuegos descubre que uno de sus pasantes nocturnos tiene una doble vida como streamer de ASMR, desatando una divertida y tierna relación.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Office Romance", "Boss x Intern", "ASMR Streamer"],
+    "shipPrincipal": {
+      "nombreShip": "ForceBook",
+      "actores": ["Jiratchapong Srisang (Force)", "Ohm Thipakorn Thitathan (Book)"],
+      "isActivo": true,
+      "descripcionGeneral": "Una de las parejas estelares de GMMTV, destacando por su carisma y dinámica juguetona en comedias románticas.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/4f/c7/b5/fcfb508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 123,
+    "titulo": "Absolute Zero",
+    "sinopsis": "Un hombre sufre un trágico accidente de tráfico que deja a su pareja en coma. Un misterioso poder le otorga la oportunidad de viajar al pasado para evitar que se conozcan y salvar su vida.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Time Travel", "Tragedy & Romance", "Second Chance"],
+    "shipPrincipal": {
+      "nombreShip": "TorSattapong",
+      "actores": ["Tor Sattapong", "Mix Sahaphap (invitados/elenco de Studio Wabi Sabi)"],
+      "isActivo": true,
+      "descripcionGeneral": "Drama emocional profundo basado en la novela de MAME.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/5f/c7/b5/5fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 124,
+    "titulo": "Ai Long Nhai",
+    "sinopsis": "Un joven heredero multimillonario regresa de estudiar en el extranjero y se enamora a primera vista de un taciturno compañero universitario al que intenta conquistar con su persistencia.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["University Life", "Rich Heir", "Flirty x Cold"],
+    "shipPrincipal": {
+      "nombreShip": "MeenPing",
+      "actores": ["Meen Nichakoon Khajornboribeat", "Ping Krittanun Aunchananun"],
+      "isActivo": true,
+      "descripcionGeneral": "El debut estelar de esta pareja dentro de las adaptaciones de novelas de MAME.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/6f/c7/b5/6fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 125,
+    "titulo": "Bed Friend",
+    "sinopsis": "Dos compañeros de oficina con personalidades opuestas deciden mantener una relación secreta basada estrictamente en beneficios físicos, sin sospechar que los sentimientos terminarán involucrados.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Friends with Benefits to Lovers", "Office Romance", "Slow Burn"],
+    "shipPrincipal": {
+      "nombreShip": "NetJames",
+      "actores": ["Net Siraphop Manithikul", "James Supamongkon Wongwisut"],
+      "isActivo": false,
+      "descripcionGeneral": "Una de las parejas más populares de Mandee Work, reconocida por su gran química en tramas maduras.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 126,
+    "titulo": "Be My Favorite",
+    "sinopsis": "Un joven frustrado con su vida y enamorado de su mejor amigo de la universidad encuentra un cristal mágico que le permite viajar al pasado para cambiar sus decisiones amorosas.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Time Travel", "Unrequited Love", "Magic Crystal"],
+    "shipPrincipal": {
+      "nombreShip": "KristGawin",
+      "actores": ["Perawat Sangpotirat (Krist)", "Gawin Caskey"],
+      "isActivo": true,
+      "descripcionGeneral": "Protagonistas de esta comedia romántica con saltos temporales producida por GMMTV.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/8f/c7/b5/8fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 127,
+    "titulo": "Cherry Magic [Thailand]",
+    "sinopsis": "La versión tailandesa del popular manga donde un oficinista virgen al cumplir 30 años adquiere el poder de leer pensamientos al tocar a otros, enamorándose de su exitoso compañero de trabajo.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Office Romance", "Magical Realism", "Adaptation"],
+    "shipPrincipal": {
+      "nombreShip": "TayNew",
+      "actores": ["Tawan Vihokratana", "Thitipoom Techaapaikhun"],
+      "isActivo": true,
+      "descripcionGeneral": "Adaptación oficial tailandesa protagonizada por el icónico dúo de GMMTV.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 128,
+    "titulo": "Dangerous Romance",
+    "sinopsis": "Un estudiante rico pero solitario y un joven trabajador de bajos recursos se ven obligados a aliarse en la escuela, descubriendo que sus mundos opuestos se complementan a la perfección.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["High School", "Opposites Attract", "Class Divide"],
+    "shipPrincipal": {
+      "nombreShip": "PerthChimon",
+      "actores": ["Tanapon Sukumpantanasan (Perth)", "Wachirawit Ruangwiwat (Chimon)"],
+      "isActivo": false,
+      "descripcionGeneral": "Dúo protagonista de GMMTV conocido por su tensión dramática en entornos juveniles.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 129,
+    "titulo": "Dear Doctor, I'm Coming For Soul",
+    "sinopsis": "Un cirujano brillante que lucha por salvar vidas a diario entabla una relación inusual con la personificación de la Muerte, quien acude a recoger las almas de sus pacientes.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Grim Reaper x Doctor", "Supernatural Romance", "Medical Drama"],
+    "shipPrincipal": {
+      "nombreShip": "NatGorn",
+      "actores": ["Nat Natasitt Uareksit", "Gorn Nutthasid Panyangาม"],
+      "isActivo": true,
+      "descripcionGeneral": "Protagonistas de esta emotiva y fantástica serie de Studio Wabi Sabi.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 130,
+    "titulo": "Don't Say No",
+    "sinopsis": "Dos mejores amigos de la infancia deciden dar el paso hacia una relación romántica, debiendo enfrentar los celos, las inseguridades y las expectativas de su entorno.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2021",
+    "pais": "Tailandia",
+    "tropos": ["Best Friends to Lovers", "University Life", "Jealousy"],
+    "shipPrincipal": {
+      "nombreShip": "JaFirst",
+      "actores": ["Ja Phachara Suansri", "First Chalongrat Novsamur"],
+      "isActivo": false,
+      "descripcionGeneral": "Spin-off oficial de TharnType 2 centrado en los personajes de Leo y Fiat.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/5f/c7/b5/5fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 131,
+    "titulo": "En of Love: This Is Love Story",
+    "sinopsis": "Un estudiante de ingeniería popular y mujeriego se obsesiona con un tímido estudiante de medicina, persiguiéndolo hasta derribar sus barreras.",
+    "episodiosTotales": 3,
+    "imagenUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=600&auto=format&fit=crop",
+    "anio": "2020",
+    "pais": "Tailandia",
+    "tropos": ["University Life", "Pursuit", "Engineering x Medical"],
+    "shipPrincipal": {
+      "nombreShip": "PromWarit",
+      "actores": ["Prom Ratchapat Wirassorn", "Benz Warit Dilokratthakul"],
+      "isActivo": true,
+      "descripcionGeneral": "Tercera parte de la antología En of Love centrada en Bar y Gun.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 132,
+    "titulo": "Fahlanruk",
+    "sinopsis": "Un estudiante universitario que evita el compromiso emocional debido a un pasado doloroso se cruza con un chico que desafía sus reglas de relaciones sin ataduras.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Friends with Benefits", "Emotional Baggage", "University Life"],
+    "shipPrincipal": {
+      "nombreShip": "TonLimon",
+      "actores": ["Ton NamNont", "Limon Supachok"],
+      "isActivo": true,
+      "descripcionGeneral": "Drama romántico universitario centrado en las complejidades de abrir el corazón.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9f/c7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 133,
+    "titulo": "For Him",
+    "sinopsis": "Un intrigante romance de misterio y pasión donde los secretos del pasado y las alianzas oscuras ponen a prueba el amor de sus protagonistas.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Mystery Romance", "Passionate Love", "Secrets"],
+    "shipPrincipal": {
+      "nombreShip": "ChessmanTeam",
+      "actores": ["Boom Sahaphat", "Risk Kanawut"],
+      "isActivo": true,
+      "descripcionGeneral": "Adaptación de la popular novela de MAME producida por NetiMan.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 134,
+    "titulo": "Gen Y The Series",
+    "sinopsis": "Un recorrido coral por las vivencias amorosas, los celos y los desafíos académicos de un grupo de jóvenes estudiantes universitarios en Tailandia.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=600&auto=format&fit=crop",
+    "anio": "2020",
+    "pais": "Tailandia",
+    "tropos": ["University Life", "Ensemble Cast", "Campus Romance"],
+    "shipPrincipal": {
+      "nombreShip": "BasCop",
+      "actores": ["Bas Suradet Piniwat", "Cop Supakorn Sangrut"],
+      "isActivo": true,
+      "descripcionGeneral": "Una de las series corales juveniles más populares de Star Hunter Entertainment.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 135,
+    "titulo": "Ghost Host, Ghost House",
+    "sinopsis": "Un joven vlogger de lo paranormal especializado en casas embrujadas se hospeda en una propiedad donde termina conviviendo con un fantasma muy peculiar.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Supernatural", "Ghost x Human", "Horror Comedy"],
+    "shipPrincipal": {
+      "nombreShip": "BestGump",
+      "id": 135,
+      "actores": ["Best Vittawin", "Gump Pongtanavarin"],
+      "isActivo": true,
+      "descripcionGeneral": "Una entretenida mezcla de comedia romántica y fenómenos paranormales.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/5f/c7/b5/5fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 136,
+    "titulo": "Great Men Academy",
+    "sinopsis": "Una chica logra ingresar mágicamente a una prestigiosa academia masculina para acercarse al chico que le gusta, experimentando enredos de identidad y amistad.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=600&auto=format&fit=crop",
+    "anio": "2019",
+    "pais": "Tailandia",
+    "tropos": ["Gender Bender", "Magic Academy", "Ensemble"],
+    "shipPrincipal": {
+      "nombreShip": "Teeradon & James",
+      "actores": ["Teeradon Supapunpinyo (James)", "Paris Intarakomalyasut"],
+      "isActivo": false,
+      "descripcionGeneral": "Famosa producción de Nadao Bangkok con participación estelar de miembros de 9by9.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 137,
+    "titulo": "I Will Knock You",
+    "sinopsis": "Un estudiante universitario que trabaja como tutor privado es asignado para enseñar a un joven estudiante de instituto conocido por su actitud de cabecilla de barrio.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Tutor x Student", "Age Gap / School", "Comedia Romántica"],
+    "shipPrincipal": {
+      "nombreShip": "TarOhm",
+      "actores": ["Tar Atiwat", "Ohm Thipakorn"],
+      "isActivo": true,
+      "descripcionGeneral": "Una comedia romántica ligera y entrañable sobre diferencias de edad y mundos escolares.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 138,
+    "titulo": "Kidnap",
+    "sinopsis": "Un secuestrador de poca monta comete el error de aceptar un encargo de secuestro que altera por completo su vida al enamorarse de su objetivo.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Tailandia",
+    "tropos": ["Kidnapper x Victim", "Action Romance", "Danger"],
+    "shipPrincipal": {
+      "nombreShip": "OhmLeng",
+      "actores": ["Ohm Pawat Chittsawangdee", "Leng Thanaphon Aꜛsapun"],
+      "isActivo": true,
+      "descripcionGeneral": "Protagonistas de este thriller romántico de GMMTV dirigido por Aof Noppharnach.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 139,
+    "titulo": "La Pluie",
+    "sinopsis": "Un arquitecto sufre de una rara condición por la cual solo puede escuchar la voz de su alma gemela cuando llueve, cruzándose con un otorrinolaringólogo pragmático.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Soulmates", "Rain Condition", "Architect x Doctor"],
+    "shipPrincipal": {
+      "nombreShip": "PeatFort / Suebsakun",
+      "actores": ["Title Suebsakun", "Indy Thanin"],
+      "isActivo": true,
+      "descripcionGeneral": "Romance fantástico basado en la exitosa novela web homónima.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 140,
+    "titulo": "Last Twilight",
+    "sinopsis": "Un talentoso deportista que va perdiendo la vista de forma irreversible y un exjugador de bádminton cínico reconvertido en su cuidador descubren una nueva luz en sus vidas.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Disability & Romance", "Caregiver x Patient", "Emotional Growth"],
+    "shipPrincipal": {
+      "nombreShip": "JimmySea",
+      "actores": ["Jitaraphol Potiwihok (Jimmy)", "Kasidet Plookphol (Sea)"],
+      "isActivo": true,
+      "descripcionGeneral": "Una de las obras maestras dramáticas más aclamadas de GMMTV por su sensibilidad y realismo.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/5f/c7/b5/5fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 141,
+    "titulo": "Laws of Attraction",
+    "sinopsis": "Un abogado sin escrúpulos que busca ganar a toda costa y un hombre cuyo sobrino murió en un misterioso atropello unen fuerzas en una búsqueda de justicia que enciende una intensa pasión.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Lawyer x Commoner", "Revenge & Justice", "Mature Romance"],
+    "shipPrincipal": {
+      "nombreShip": "FilmJam",
+      "actores": ["Film Thanapat Kawila", "Jam Rachata Hampanont"],
+      "isActivo": true,
+      "descripcionGeneral": "La exitosa pareja de One31 que revolucionó la televisión tailandesa con su química innegable.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 142,
+    "titulo": "Love by Chance",
+    "sinopsis": "Un estudiante universitario amable y de origen humilde choca accidentalmente con un chico rico y apuesto, dando inicio a una dulce relación marcada por diferencias sociales.",
+    "episodiosTotales": 14,
+    "imagenUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=600&auto=format&fit=crop",
+    "anio": "2018",
+    "pais": "Tailandia",
+    "tropos": ["University Life", "Class Divide", "Sweet Romance"],
+    "shipPrincipal": {
+      "nombreShip": "PerthSaint",
+      "actores": ["Tanapon Sukumpantanasan (Perth)", "Suppapong Udomkaewkanjana (Saint)"],
+      "isActivo": false,
+      "descripcionGeneral": "El fenómeno clásico que catapultó a la fama internacional al género BL tailandés en 2018.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 143,
+    "titulo": "Lovely Writer",
+    "sinopsis": "Un exitoso escritor de novelas BL debe escribir una historia de encargo que se convierte en un éxito televisivo, involucrándose sentimentalmente con el apuesto actor principal del casting.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=600&auto=format&fit=crop",
+    "anio": "2021",
+    "pais": "Tailandia",
+    "tropos": ["Writer x Actor", "Meta Fiction", "Cohabitation"],
+    "shipPrincipal": {
+      "nombreShip": "KaoUp",
+      "actores": ["Noppakao Dechaphatthanakun (Kao)", "Poompat Iam-samang (Up)"],
+      "isActivo": false,
+      "descripcionGeneral": "Una comedia romántica satírica muy elogiada por criticar los clichés de la propia industria BL.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 144,
+    "titulo": "Middleman's Love",
+    "sinopsis": "Un diseñador gráfico que siempre se siente como el 'personaje secundario' o el intermediario en las relaciones amorosas de los demás encuentra de repente la atención de su exigente jefe.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Office Romance", "Boss x Employee", "Insecurities"],
+    "shipPrincipal": {
+      "nombreShip": "YimNet",
+      "actores": ["Pharinyakorn Khansawa (Yim)", "Tutor Koraphat Lamnoi"],
+      "isActivo": true,
+      "descripcionGeneral": "Spin-off de Bed Friend centrado en la historia de office romance de Jade y Mai.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 145,
+    "titulo": "My Engineer",
+    "sinopsis": "Un estudiante de ingeniería popular decide vengarse de un estudiante de medicina haciéndole llevar una rosa roja todos los días durante un mes, desatando un romance inesperado.",
+    "episodiosTotales": 14,
+    "imagenUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=600&auto=format&fit=crop",
+    "anio": "2020",
+    "pais": "Tailandia",
+    "tropos": ["University Life", "Engineering x Medical", "Enemies to Lovers"],
+    "shipPrincipal": {
+      "nombreShip": "BoomCoop",
+      "actores": ["Kritapak Uttagan (Boom)", "Panchanon Wongpipat (Coop)"],
+      "isActivo": false,
+      "descripcionGeneral": "Una entrañable serie universitaria coral con múltiples parejas secundarias muy populares.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/5f/c7/b5/5fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 146,
+    "titulo": "My Stand-In",
+    "sinopsis": "Un doble de acción en el cine acepta trabajar como sustituto de una estrella arrogante, enamorándose profundamente antes de descubrir que solo era un reemplazo emocional.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Tailandia",
+    "tropos": ["Stuntman", "Angst and Redemption", "Second Chance"],
+    "shipPrincipal": {
+      "nombreShip": "PoomUp",
+      "actores": ["Poom Phuripan Sapsangsawat", "Up Poompat Iam-samang"],
+      "isActivo": true,
+      "descripcionGeneral": "Un intenso drama de alto impacto emocional producido por iQIYI Thailand.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 147,
+    "titulo": "Naughty Babe",
+    "sinopsis": "Un joven caprichoso y su prometido multimillonario intentan romper su compromiso arreglado mediante constantes peleas, hasta que un accidente automovilístico cambia sus perspectivas.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Arranged Marriage", "Amnesia", "Spicy Romance"],
+    "shipPrincipal": {
+      "nombreShip": "MaxNat",
+      "actores": ["Max Kornthas Rungsiorn", "Nat Natasitt Uareksit"],
+      "isActivo": true,
+      "descripcionGeneral": "Spin-off de Cutie Pie centrado en la apasionada y divertida relación de Hia Yi y Diao.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9f/c7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 148,
+    "titulo": "Only Boo!",
+    "sinopsis": "Un joven aspirante a idol que ensaya en una pequeña tienda de comestibles de barrio se enamora del chico encargado del negocio escolar.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Tailandia",
+    "tropos": ["Idol Trainee", "High School", "Sweet Romance"],
+    "shipPrincipal": {
+      "nombreShip": "KeenSea",
+      "actores": ["Keen Suvijak Pundhapong", "Sea Dechchart Lenchawaphat"],
+      "isActivo": true,
+      "descripcionGeneral": "Una fresca y adorable comedia romántica juvenil producida por GMMTV.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 149,
+    "titulo": "Oxygen",
+    "sinopsis": "Un estudiante universitario huérfano que trabaja duro para subsistir cruza su camino con un rico estudiante de ingeniería, descubriendo que se necesitan mutuamente como el aire para respirar.",
+    "episodiosTotales": 13,
+    "imagenUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+    "anio": "2020",
+    "pais": "Tailandia",
+    "tropos": ["Comfort Romance", "Orphan x Rich Heir", "Healing"],
+    "shipPrincipal": {
+      "nombreShip": "SoloGui",
+      "actores": ["Petch Chanapoom Thenwong", "Supanut Lourhaphanich"],
+      "isActivo": false,
+      "descripcionGeneral": "Un drama suave, reconfortante y de ritmo pausado basado en la exitosa novela web.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 150,
+    "titulo": "Past Senger",
+    "sinopsis": "Un joven estudiante universitario viaja accidentalmente al futuro, encontrándose con su versión adulta y con un enigmático joven que cambia su destino.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Time Travel", "University Life", "Destiny"],
+    "shipPrincipal": {
+      "nombreShip": "CooperBovy",
+      "actores": ["Cooper Patpasit Songkran", "Bovy Gautier"],
+      "isActivo": true,
+      "descripcionGeneral": "Una emotiva historia de ciencia ficción y romance temporal.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/5f/c7/b5/5fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 151,
+    "titulo": "Pit Babe",
+    "sinopsis": "Un talentoso piloto de carreras clandestinas con habilidades sensoriales especiales se cruza con un joven aspirante dispuesto a todo por entrar a su equipo, desatando una red de pasión y peligro.",
+    "episodiosTotales": 13,
+    "imagenUrl": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Car Racing", "Omegaverse Elements / Special Abilities", "Danger Romance"],
+    "shipPrincipal": {
+      "nombreShip": "PavelPooh",
+      "actores": ["Pavel Naret Promphaophan", "Pooh Krit Sanitwong"],
+      "isActivo": true,
+      "descripcionGeneral": "El gran éxito de Changmob/IQIYI que popularizó las tramas de automovilismo y alta adrenalina.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 152,
+    "titulo": "Secret Crush on You",
+    "sinopsis": "Un estudiante tímido y excéntrico guarda un amor platónico obsesivo por un popular estudiante de tercer año, recopilando cada pequeño detalle de su vida en secreto.",
+    "episodiosTotales": 14,
+    "imagenUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Secret Admirer", "Stalker to Lover", "Quirky Romance"],
+    "shipPrincipal": {
+      "nombreShip": "BillySeng",
+      "actores": ["Billy Patchanon Ounsa-ard", "Seng Wichai Saefou"],
+      "isActivo": true,
+      "descripcionGeneral": "Una comedia romántica muy peculiar y entrañable producida por IdolFactory.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9f/c7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 153,
+    "titulo": "Step by Step",
+    "sinopsis": "Un joven heredero perfeccionista que asume la dirección de una empresa tradicional choca constantemente con su relajado y creativo gerente de marketing.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Office Romance", "Age Gap", "Boss x Employee"],
+    "shipPrincipal": {
+      "nombreShip": "ManBen",
+      "actores": ["Man Trisanu Sorithan", "Ben Benjamin Brasier"],
+      "isActivo": true,
+      "descripcionGeneral": "Un drama maduro de oficina enfocado en la comunicación y los retos laborales.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 154,
+    "titulo": "The Sign",
+    "sinopsis": "Una investigadora de casos especiales y un oficial dotado de memorias de vidas pasadas se unen en una peligrosa investigación conectada con una antigua leyenda mitológica tailandesa.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Past Lives", "Mythology", "Investigative Thriller"],
+    "shipPrincipal": {
+      "nombreShip": "BillyBabe",
+      "actores": ["Billy Patchanon Ounsa-ard", "Babe Tanapat Losuttikul"],
+      "isActivo": true,
+      "descripcionGeneral": "Espectacular producción de IDOLFACTORY que mezcla misterio sobrenatural, acción y reencarnación.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 155,
+    "titulo": "The Warp Effect",
+    "sinopsis": "Un joven instructor sexual que aún no ha tenido su primera experiencia íntima se ve envuelto en saltos dimensionales y enredos amorosos que alteran su realidad.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Parallel Universe", "Coming of Age", "Sex Education Theme"],
+    "shipPrincipal": {
+      "nombreShip": "ForceBook",
+      "actores": ["Jiratchapong Srisang (Force)", "Ohm Thipakorn (Book)"],
+      "isActivo": true,
+      "descripcionGeneral": "Una comedia universitaria de GMMTV con elementos de ciencia ficción y romance coral.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/5f/c7/b5/5fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 156,
+    "titulo": "Triage",
+    "sinopsis": "Un médico residente de urgencias atrapado en un bucle temporal repetitivo debe descifrar cómo salvar la vida de un paciente universitario para romper la maldición del tiempo.",
+    "episodiosTotales": 13,
+    "imagenUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Time Loop", "Medical Thriller", "Doctor x Student"],
+    "shipPrincipal": {
+      "nombreShip": "TeeTae",
+      "actores": ["Tee Thanapon Jarujitranon", "Tae Darvid Kreeppholrerk"],
+      "isActivo": true,
+      "descripcionGeneral": "Un aclamado thriller médico y fantástico de TV Thunder con una gran complejidad argumental.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 157,
+    "titulo": "Two Worlds",
+    "sinopsis": "Un hombre viaja entre dos realidades paralelas interconectadas tras la pérdida trágica de su amado, encontrando versiones alternativas de las personas que conoce.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Tailandia",
+    "tropos": ["Parallel Worlds", "Mystery", "Second Chance"],
+    "shipPrincipal": {
+      "nombreShip": "MaxNat",
+      "actores": ["Max Kornthas Rungsiorn", "Nat Natasitt Uareksit"],
+      "isActivo": true,
+      "descripcionGeneral": "Intenso drama fantástico de Mandee Work donde exploran universos paralelos.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9f/c7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 158,
+    "titulo": "Unforgotten Night",
+    "sinopsis": "Una joven heredera y un enigmático hombre de negocios establecen un acuerdo de romance nocturno que evoluciona hacia una relación intensa y llena de secretos.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Contract Relationship", "Secret Billionaire", "Passionate Romance"],
+    "shipPrincipal": {
+      "nombreShip": "YoonTon",
+      "actores": ["Yoon Phusanu Werapoon", "Ton Saran Anantasetthakul"],
+      "isActivo": true,
+      "descripcionGeneral": "Una serie muy comentada por su estilo clásico de melodramas de pasión y contratos.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 159,
+    "titulo": "Vice Versa",
+    "sinopsis": "Un joven recién graduado muere en un accidente y despierta en el cuerpo de otra persona en un universo paralelo, donde conoce a alguien que comparte su misma situación.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=600&auto=format&fit=crop",
+    "anio": "2022",
+    "pais": "Tailandia",
+    "tropos": ["Parallel Universe", "Body Swap / Soul Shift", "Sci-Fi Romance"],
+    "shipPrincipal": {
+      "nombreShip": "SeaJimmy",
+      "actores": ["Sea Tawinan Anukoolprasert", "Jimmy Jitaraphol Potiwihok"],
+      "isActivo": true,
+      "descripcionGeneral": "Innovadora serie fantástica de GMMTV dirigida por Aof Noppharnach.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 160,
+    "titulo": "Wandee Goodday",
+    "sinopsis": "Una cirujana plástica decidida a cambiar su vida amorosa tras una decepción decide tener una noche de pasión con un boxeador profesional, desatando un contrato de noviazgo falso.",
+    "episodiosTotales": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&w=600&auto=format&fit=crop",
+    "anio": "2024",
+    "pais": "Tailandia",
+    "tropos": ["Fake Dating", "Doctor x Boxer", "Comedia Romántica"],
+    "shipPrincipal": {
+      "nombreShip": "GreatInn",
+      "actores": ["Great Sapol Assawapumin", "Inn Sarin Ronnakiat"],
+      "isActivo": true,
+      "descripcionGeneral": "Una exitosa y divertida comedia romántica de GMMTV con grandes dosis de química y humor.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/5f/c7/b5/5fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 161,
+    "titulo": "Wedding Plan",
+    "sinopsis": "Un planificador de bodas profesional se enamora perdidamente del novio de una de sus clientas, viéndose envuelto en un dilema ético y romántico.",
+    "episodiosTotales": 7,
+    "imagenUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Tailandia",
+    "tropos": ["Wedding Planner", "Love Triangle", "Forbidden Romance"],
+    "shipPrincipal": {
+      "nombreShip": "LoveStorm / Pakin",
+      "actores": ["Sunny Wannarat", "Park Anuson"],
+      "isActivo": true,
+      "descripcionGeneral": "Miniserie de MAME muy popular por su frescura y enredos matrimoniales.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 162,
+    "titulo": "Why R U?",
+    "sinopsis": "Una joven escritora de novelas BL descubre con sorpresa que su hermana menor y ella misma parecen estar viviendo los mismos tropos y clichés de las historias que escribe.",
+    "episodiosTotales": 13,
+    "imagenUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=600&auto=format&fit=crop",
+    "anio": "2020",
+    "pais": "Tailandia",
+    "tropos": ["Meta Fiction", "University Life", "Enemies to Lovers"],
+    "shipPrincipal": {
+      "nombreShip": "ZeeSaint",
+      "actores": ["Pruk Panich (Zee)", "Suppapong Udomkaewkanjana (Saint)"],
+      "isActivo": false,
+      "descripcionGeneral": "El éxito masivo que consagró a Zee Pruk en la industria del BL tailandés.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9f/c7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 163,
+    "titulo": "Light On Me",
+    "sinopsis": "Un estudiante solitario y taciturno decide unirse al consejo estudiantil por consejo de un profesor para hacer amigos, encontrándose en medio de un enredo romántico entre varios miembros.",
+    "episodiosTotales": 16,
+    "imagenUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=600&auto=format&fit=crop",
+    "anio": "2021",
+    "pais": "Corea del Sur",
+    "tropos": ["High School", "Love Triangle", "Student Council"],
+    "shipPrincipal": {
+      "nombreShip": "TaeGyeong & ShinWoo",
+      "actores": ["Lee Sae-on", "Kang Yoo-seok"],
+      "isActivo": true,
+      "descripcionGeneral": "Un popular K-BL escolar adaptado de un webtoon muy querido por los fans.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/1f/c7/b5/1fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 164,
+    "titulo": "The New Employee",
+    "sinopsis": "Un pasante de treinta años que ingresa por primera vez a una agencia de publicidad se enamora de su atractivo pero estricto director de equipo.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Corea del Sur",
+    "tropos": ["Office Romance", "Boss x Intern", "Late Bloomer"],
+    "shipPrincipal": {
+      "nombreShip": "KwonHyuk & MoonJiYong",
+      "actores": ["Kwon Hyuk", "Moon Ji-yong"],
+      "isActivo": true,
+      "descripcionGeneral": "Aclamado K-BL de oficina basado en una exitosa novela web.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/3f/c7/b5/3fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 165,
+    "titulo": "Unintentional Love Story",
+    "sinopsis": "Un empleado corrupto en busca de recuperar su empleo se acerca a un ceramista genio y solitario que vive retirado del mundo, sin imaginar que se enamorará perdidamente de él.",
+    "episodiosTotales": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "anio": "2023",
+    "pais": "Corea del Sur",
+    "tropos": ["Grumpy x Sunshine", "Pottery Studio", "Hidden Identity"],
+    "shipPrincipal": {
+      "nombreShip": "ChaSeoWon & GongChan",
+      "actores": ["Cha Seo-won", "Gongchan"],
+      "isActivo": true,
+      "descripcionGeneral": "Uno de los K-BLs con mayor presupuesto y calidad cinematográfica de los últimos años.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/5f/c7/b5/5fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 166,
+    "titulo": "HIStory2: Crossing the Line",
+    "sinopsis": "Un capitán de un club de voleibol universitario se enamora de un talentoso estudiante transferido al que entrena, enfrentando sus propios sentimientos.",
+    "episodiosTotales": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&w=600&auto=format&fit=crop",
+    "anio": "2018",
+    "pais": "Taiwán",
+    "tropos": ["Volleyball Team", "Athlete Romance", "University Life"],
+    "shipPrincipal": {
+      "nombreShip": "FandyFan & ZachLu",
+      "actores": ["Fandy Fan", "Zach Lu"],
+      "isActivo": false,
+      "descripcionGeneral": "Una de las entregas más queridas y emblemáticas de la antología taiwanesa HIStory.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/7f/c7/b5/7fc7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  },
+  {
+    "id": 167,
+    "titulo": "HIStory3: Make Our Days Count",
+    "sinopsis": "Estudiantes de secundaria con personalidades completamente opuestas pasan del odio inicial a un romance inolvidable que desafía la tragedia.",
+    "episodiosTotales": 20,
+    "imagenUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=600&auto=format&fit=crop",
+    "anio": "2019",
+    "pais": "Taiwán",
+    "tropos": ["High School", "Enemies to Lovers", "Emotional Drama"],
+    "shipPrincipal": {
+      "nombreShip": "WayneSong & HuangChunChih",
+      "actores": ["Wayne Song", "Huang Chun-chih"],
+      "isActivo": false,
+      "descripcionGeneral": "Un clásico inolvidable de la factoría taiwanesa famoso por su tremendo impacto emocional.",
+      "imagenShipUrl": "https://i.pinimg.com/736x/9f/c7/b5/9f/c7b508f7db69b35b69c4c1a704b2b1.jpg"
+    }
+  }
+]
